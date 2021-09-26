@@ -1,0 +1,127 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Ο ιερός βράχος της Ακρόπολης, σύμβολο των Αθηνών, δεσπόζει στο κέντρο 
+της σύγχρονης πόλης και είναι ορατός από κάθε γωνιά της. Μνημείο Παγκόσμιας 
+Κληρονομιάς της UNESCO, κατοικήθηκε από την προϊστορική εποχή και σταδιακά 
+διαμορφώθηκε στον κατεξοχήν ιερό χώρο της Αθήνας, αφιερωμένο κυρίως στην 
+προστάτιδά της, θεά Αθηνά. Στην κορυφή του στέκει ο Παρθενώνας, το κορυφαίο 
+δημιούργημα της κλασικής αρχιτεκτονικής, τα Προπύλαια, το Ερέχθειο και ο ναός της 
+Αθηνάς Νίκης. Στις πλαγιές του βράχου διακρίνονται σπήλαια, ιερά και μνημεία διαφόρων 
+εποχών, με γνωστότερα το αρχαίο θέατρο του Διονύσου, και το ρωμαϊκό Ωδείο του Ηρώδη 
+Αττικού.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Στις πλαγιές, στα σπήλαια και στα πλατώματα του βράχου της 
+Ακρόπολης, σε μικρά και μεγάλα ιερά, λατρεύτηκαν θεοί, ήρωες 
+και νύμφες. Η νότια πλαγιά φιλοξένησε δύο από τα σπουδαιότερα 
+ιερά της πόλης, του Διονύσου Ελευθερέως, όπου γιορτάζονταν στις 
+αρχές της άνοιξης τα Μεγάλα ή εν Άστει Διονύσια, μια από τις 
+σημαντικότερες γιορτές της πόλης, και αυτό του Ασκληπιού.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Στο βόρειο μέρος του βράχου της Ακρόπολης, στο σημείο όπου
+σύμφωνα με τη μυθολογία κατοικούσε ο βασιλιάς Ερεχθέας, 
+υψώθηκε μεταξύ 421 και 406 π.Χ. το Ερέχθειο. Σύμφωνα με τον 
+μύθο, σε αυτό το σημείο φιλονίκησαν και οι θεοί Αθηνά και 
+Ποσειδώνας για την κηδεμονία της πόλης. Νικήτρια ανακηρύχτηκε 
+η Αθηνά, δίνοντας το όνομά της στην πόλη Στον σύνθετο αρχιτεκτονικά 
+ναό συστεγάστηκαν η λατρεία της Αθηνάς Πολιάδος και άλλων θεοτήτων. 
+Σε αντίθεση με τη στιβαρότητα του Παρθενώνα, το Ερέχθειο διακρίνεται για 
+το ανάλαφρο περίγραμμα, τα περίτεχνα κοσμήματα και τη μοναδική νότια 
+πρόσταση που στηρίζουν οι Καρυάτιδες, τα αγάλματα λυγερών κορών, χάρις 
+στα οποία κατέστη ένα από τα διασημότερα μνημεία στον κόσμο.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Στην κορυφή του λόφου της Ακρόπολης δεσπόζει ο Παρθενώνας,
+ σύμβολο της πόλης. Οικοδομήθηκε τον 5ο αι. π.Χ. σε σχέδια των 
+αρχιτεκτόνων Ικτίνου και Καλλικράτη, ενώ για τον γλυπτό διάκοσμο 
+εργάστηκε ο γλύπτης Φειδίας, με τους μαθητές του. Ο ναός διαθέτει 
+μοναδικές αναλογίες, εξαιρετικές καινοτομίες και συνδυασμό δωρικών 
+και ιωνικών στοιχείων. Ήταν αφιερωμένος στην προστάτιδα της πόλης, 
+θεά Αθηνά, της οποίας το υπερφυσικού μεγέθους χρυσελεφάντινο άγαλμα, 
+ήταν στημένο στο εσωτερικό του ναού. Το 1687, κατά την πολιορκία της 
+Ακρόπολης από τον ιταλό αρχιστράτηγο Μοροζίνι, μεγάλο τμήμα του 
+κατέρρευσε από ανατίναξη, ενώ στις αρχές του 19ου αιώνα, μέρος του
+γλυπτού διακόσμου αποκολλήθηκε με διαταγή του λόρδου Έλγιν, 
+εκλάπη και εκτίθεται έως σήμερα στο Βρετανικό Μουσείο.</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Ανεβαίνοντας την Ακρόπολη προς τα Προπύλαια, προβάλλει δεξιά 
+ο κομψός ιωνικός ναός της Αθηνάς Νίκης, που χτίστηκε από τον 
+αρχιτέκτονα Καλλικράτη μεταξύ 425-421 π.Χ. Σχετιζόταν με τη 
+λατρεία της Αθηνάς ως συμπαραστάτριας των Αθηναίων στους 
+πολέμους. Στην ανάγλυφη ζωφόρο εικονίζονταν ανατολικά οι θεοί 
+του Ολύμπου και στις άλλες τρεις πλευρές διάφορες μάχες.</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Τα Προπύλαια, η εμβληματική είσοδος της Ακρόπολης, 
+χτίστηκε μεταξύ 437-432 π.Χ. από τον αρχιτέκτονα Μνησικλή.Εδώ 
+είχαν στηθεί έργα σπουδαίων καλλιτεχνών, γνωστά από περιγραφές 
+του περιηγητή Παυσανία, και ρωμαϊκά αντίγραφα. Αποτελείται από το 
+κεντρικό πρόπυλο και δύο πλαϊνές πτέρυγες. Το κεντρικό κτήριο διαιρείται 
+σε δύο τμήματα από ένα εγκάρσιο τοίχο με πέντε θύρες, από τις οποίες η 
+μεσαία είναι πλατύτερη. Οι οροφές είχαν μαρμάρινα φατνώματα με επίχρυσα 
+μεταλλικά άστρα σε μπλε φόντο.</value>
+  </data>
+</root>

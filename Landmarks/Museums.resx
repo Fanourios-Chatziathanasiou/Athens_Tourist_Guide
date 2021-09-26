@@ -1,0 +1,122 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Δεκάδες μουσεία στο κέντρο της Αθήνας αλλά και στα προάστια στεγάζουν μοναδικές συλλογές 
+που μαρτυρούν την ιστορία του τόπου, φωτίζοντας κάθε πτυχή της. Εκτός από το φημισμένο 
+Μουσείο της Ακρόπολης, την επίσκεψή μας αξίζουν οι πλούσιες συλλογές του Εθνικού 
+Αρχαιολογικού Μουσείου, οι θησαυροί του Βυζαντινού και Χριστιανικού Μουσείου, οι εκθέσεις 
+του Μουσείου Κυκλαδικής Τέχνης και του Μουσείου Μπενάκη, αλλά και μικρότερες σπουδαίες 
+συλλογές λιγότερο γνωστών μουσείων. Το νέο Εθνικό Μουσείο Σύγχρονης Τέχνης και η ολοκλήρωση 
+της ανάπλασης της Εθνικής Πινακοθήκης αναμένεται να ανανεώσουν τον πολιτιστικό χάρτη της 
+πρωτεύουσας. </value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Το μεγαλύτερο μουσείο της Ελλάδας και ένα από τα σπουδαιότερα 
+όλου του κόσμου,περιλαμβάνει περισσότερα από 20.000 
+αριστουργήματα, που συνθέτουν ολοκληρωμένη εικόνα του 
+αρχαίου ελληνικού πολιτισμού, από τις απαρχές της προϊστορίας 
+μέχρι την ύστερη αρχαιότητα. Διαθέτει, μεταξύ άλλων, τη σπάνια συλλογή 
+προϊστορικών αρχαιοτήτων με τα εντυπωσιακά ευρήματα των βασιλικών 
+τάφων των Μυκηνών, μία από τις σπουδαιότερες συλλογές γλυπτών στον 
+κόσμο, αγγεία, μικροτεχνήματα, και τη μοναδική στην Ελλάδα συλλογή 
+αιγυπτιακών και ανατολικών αρχαιοτήτων. Στεγάζεται στο εντυπωσιακό 
+νεοκλασικό κτήριο του 19ου αιώνα, έργο των αρχιτεκτόνων L. Lange και 
+E. Ziller, στην οδό Πατησίων.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Το Μουσείο Μπενάκη ιδρύθηκε το 1931 από τον Αντώνιο 
+Μπενάκη, γόνο μεγάλης ελληνικής οικογένειας, και αποτελεί 
+τον παλαιότερο ιδιωτικό μουσειακό οργανισμό στην Ελλάδα, 
+με εκθέματα που καλύπτουν περισσότερους από έναν πολιτισμικούς 
+τομείς. Στο κεντρικό νεοκλασικό μέγαρο του Μουσείου, που 
+βρίσκεται απέναντι από τον Εθνικό Κήπο, εκτίθενται συλλογές που 
+καταγράφουν τον χαρακτήρα του ελληνικού κόσμου από την 
+αρχαιότητα έως τον 20ο αιώνα, προσφέροντας μια θαυμάσια 
+επισκόπηση του ελληνικού πολιτισμού από την αρχαιότητα έως 
+τους νεότερους χρόνους.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Το Εθνικό Ιστορικό Μουσείο στεγάζεται στο Μέγαρο 
+της Παλαιάς Βουλής, στην οδό Σταδίου, κοντά στην 
+πλατεία Συντάγματος. Στα εκθέματά του περιλαμβάνονται 
+ζωγραφικά και χαρακτικά έργα, σημαίες και όπλα από τους 
+εθνικούς απελευθερωτικούς αγώνες, προσωπικά αντικείμενα
+ιστορικών μορφών, έγγραφα και φωτογραφίες, οικιακά σκεύη 
+και εργαλεία, καθώς και παραδοσιακές φορεσιές και έργα της 
+νεοελληνικής χειροτεχνίας. Καλύπτουν χρονικά την περίοδο από 
+τα τελευταία χρόνια πριν την πτώση της Κωνσταντινούπολης 
+(15ος αι.) έως το 1940.</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Η σπουδαιότερη και μεγαλύτερη πινακοθήκη της Ελλάδας
+ιδρύθηκε το 1900 και βρίσκεται στο κέντρο της Αθήνας, 
+απέναντι από το ξενοδοχείο Χίλτον και μόλις λίγα βήματα 
+από τον σταθμό του μετρό Ευαγγελισμός. Διαθέτει περίπου 
+20.000 έργα τέχνης, ζωγραφικούς πίνακες, γλυπτά και χαρακτικά, 
+που καλύπτουν την ελληνική και ευρωπαϊκή καλλιτεχνική 
+δημιουργία από τη μεταβυζαντινή περίοδο μέχρι τη σύγχρονη 
+εποχή. Λόγω εργασιών επέκτασης μέρος της συλλογής της 
+εκτίθεται προσωρινά στους χώρους της Εθνικής Γλυπτοθήκης, 
+στην περιοχή Γουδί.</value>
+  </data>
+</root>

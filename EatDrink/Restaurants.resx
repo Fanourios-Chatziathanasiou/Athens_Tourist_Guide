@@ -1,0 +1,111 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Τα τελευταία χρόνια η Αθήνα έχει να επιδείξει πολλές αξιόλογες γαστρονομικές προτάσεις. 
+Βραβευμένα εστιατόρια προσφέρουν εξαιρετική ποιότητα και πειραματίζονται με νέες 
+γαστρονομικές τάσεις αναδεικνύοντας τόσο την ελληνική όσο και την ευρωπαϊκή κουζίνα.
+Ακολουθήστε τη διάθεσή σας, επισκεφτείτε τα και ζήστε μια πραγματική εμπειρία υψηλής 
+γαστρονομίας.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Το Funky Gourmet στο Μεταξουργείο έφερε την έννοια του private 
+catering στην Ελλάδα. Στεγάζεται σε ένα υπέροχο νεοκλασικό και 
+έχει σχετικά μικρή χωρητικότητα. Εδώ θα δοκιμάσετε μοντέρνα 
+δημιουργική κουζίνα, με μενού που ανανεώνεται κάθε τρεις μήνες.
+
+Ώρες λειτουργίας
+Κλειστά Κυρ.-Δευτ.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Το Botrini's restaurant έφερε τη γαστρονομία πιο κοντά στον Αθηναϊκό κόσμο, 
+με σεβασμό στην εποχικότητα και στην ποιότητα των υλικών. Στεγάζεται σε 
+μια όμορφη μονοκατοικία η οποία περιβάλλεται από έναν καταπράσινο κήπο. 
+Το κύριο χαρακτηριστικό όλων των χώρων του είναι η minimal αισθητική, η 
+άνεση και η διακριτική πολυτέλεια.
+
+Ώρες λειτουργίας
+Κλειστά Κυρ.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Στο εστιατόριο Milos θα απολαύσετε το καλύτερο ψάρι της 
+Αθήνας, καθώς και τα κρεατικά του. Μπορείτε να επιλέξετε 
+τις αγαπημένες σας γεύσεις από τον κατάλογο ή το μενού 
+που περιλαμβάνει σαλάτες, θαλασσινά και ψάρια, γλυκό κι 
+ένα ποτήρι κρασί.</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Το Ιαπωνικό εστιατόριο Matsuhisa Athens στεγάζεται στο ξενοδοχείο 
+Astir Palace στη Βουλιαγμένη. Η κουζίνα του διακρίνεται για τις θεσπέσιες 
+Ιαπωνικές του γεύσεις με το sushi να ξεχωρίζει ενώ η μαγευτική του θέα 
+θα σας καθηλώσει.</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Με θέα το Σαρωνικό η φημισμένη ταβέρνα Παπαϊωάννου στο 
+Μικρολίμανο σας σερβίρει φρέσκα ψάρια και θαλασσινούς μεζέδες 
+διατηρώντας πάντα την ποιότητα των πιάτων και της εξυπηρέτησής 
+του.
+
+Ώρες λειτουργίας
+Και μεσημ. Κυρ. μόνο μεσημ.</value>
+  </data>
+</root>

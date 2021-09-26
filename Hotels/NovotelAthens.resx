@@ -1,0 +1,112 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Σε ιδανική τοποθεσία για την διαμονή σας στην Αθήνα, είτε για τουριστικό είτε για επαγγελματικό σκοπό, το Novotel Hotel Athens, ανοίγει τις πόρτες του και σας καλωσορίζει. 
+
+Όλα τα δωμάτια και οι σουίτες του περιλαμβάνουν γραφείο, δορυφορική και καλωδιακή τηλεόραση, ασύρματη σύνδεση στο διαδίκτυο, πιστολάκι μαλλιών, χρηματοκιβώτιο και βραστήρα με δωρεάν καφέ/τσάι.
+
+Το NOVagora restaurant του ξενοδοχείου σας προσφέρει πλούσια και ισορροπημένα γεύματα, οποιαδήποτε στιγμή της ημέρας, ενώ το εστιατόριο Clair de Lune, ανοιχτό τους καλοκαιρινούς μήνες του χρόνου, θα σας μαγέψει με την θέα της Ακρόπολης σε ένα χαλαρό περιβάλλον δίπλα στην  πισίνα.
+
+Στις παροχές του ξενοδοχείου θα βρείτε επίσης γυμναστήριο, μαγαζί με είδη δώρων, εγκαταστάσεις για άτομα με περιορισμένη κινητικότητα, υπηρεσίες πλυντηρίου, ιδιωτικό εσωτερικό χώρο στάθμευσης και τουριστικές πληροφορίες.
+
+Το Novotel Hotel Athens, χάρη στην πολυετή δραστηριότητα του στον χώρο των συνεδρίων, παρέχει στους πελάτες του εκτεταμένη εμπειρία και τεχνογνωσία. Ιδανικό για συναντήσεις και σεμινάρια αλλά και για σημαντικά συνέδρια, το ξενοδοχείο μπορεί να φιλοξενήσει μεγάλο αριθμό ατόμων.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Το μοναδικό εστιατόριο Clair de Lune θα σας ταξιδέψει όχι
+ μόνο με τις υπέροχες γεύσεις που προτείνει αλλά και με 
+την θέα της φωτισμένης Ακρόπολης. Απολαύστε το 
+δείπνο σας κοντά στην πισίνα, σε ένα χαλαρό περιβάλλον 
+με τον σύντροφο σας, με την παρέα σας ή με τους συνεργάτες 
+σας. Η ευχάριστη εμπειρία του Clair de Lune θα σας μείνει αξέχαστη.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Με θέα τον όμορφο κήπο, ελάτε στο NOVagora για ένα πλούσιο 
+πρωινό, ένα μοναδικό γεύμα, ένα απολαυστικό δείπνο ή ακόμα 
+και για ένα ελαφρύ σνάκ. Τα ισορροπημένα Μεσογειακά πιάτα 
+και το ευχάριστο περιβάλλον θα σας χαρίσουν μοναδικές 
+στιγμές.Οι συνεχόμενες υπηρεσίες όλο το 24ωρο, όλη την 
+εβδομάδα και το φιλικό προσωπικό του Novotel Αθηνών θα 
+καλύψουν όλες τις ανάγκες σας.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Το Novotel Αθηνών, χάρη στην πολυετή δραστηριότητα του 
+στον χώρο των συνεδρίων, παρέχει στους πελάτες του 
+εκτεταμένη εμπειρία και τεχνογνωσία. Ιδανικό για συναντήσεις 
+και σεμινάρια αλλά και για σημαντικά συνέδρια, το Novotel Αθηνών 
+μπορεί να φιλοξενήσει μεγάλο αριθμό ατόμων.</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Κλήσεις αφύπνισης, Κλιματισμός, Θησαυροφυλάκιο, Θέρμανση, Βίντεο 
+αν ζητηθεί, Ραδιόφωνο AM/FM, Γραφείο, Βραστήρας, Μπουρνούζι, 
+Μπανιέρα, Wi-Fi, Είδη μπάνιου, Πιστολάκι μαλλιών, Σίδερο, Ιδιωτικό μπάνιο</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>Η σουίτα, ένα δωμάτιo με δύο διαφορετικούς χώρους, θα 
+σας κερδίσει. Η μοντέρνα γραμμή της παντρεύεται υπέροχα 
+με τον άνετο περιβάλλον και σας προσφέρει ιδανικές συνθήκες 
+για ξεκούραση ή εργασία.Διαθέτει στον πρώτο χώρο καναπέ με 
+τραπεζάκι, επίπεδη τηλεόραση, mini bar, άνετο τραπέζι εργασίας 
+ή γεύματος ενώ το υπνοδωμάτιο διαθέτει διπλό κρεβάτι, επίπεδη 
+τηλεόραση και μπάνιο με ξεχωριστό WC..</value>
+  </data>
+</root>

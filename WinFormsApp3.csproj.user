@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hotels\CrownePlazaAthens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsideFormAccommodations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsideFormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Landmarks\Museums.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OutsideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

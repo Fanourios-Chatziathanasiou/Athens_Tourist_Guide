@@ -1,0 +1,104 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Τα τελευταία χρόνια έχει κατακτήσει την Αθήνα η αγάπη για το καλό κρασί σε φροντισμένο περιβάλλον διαμορφώνοντας μια νέα οινική κουλτούρα. Σαν αποτέλεσμα έχουν ανοίξει πολλά wine bars στο κέντρο και στα προάστια με εξαιρετικές λίστες κρασιών. Οι ετικέτες περιλαμβάνουν τις περισσότερες φορές κυρίως ελληνικούς αμπελώνες, χωρίς όμως να λείπουν προτάσεις από τη διεθνή οινική σκηνή.Το κρασί συνοδεύεται από μεζεδάκια και finger food.  </value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>To wine bar Classic Nouveau είναι ένας ιδιαίτερος χώρος που 
+στεγάζεται σε ένα ζεστό και φιλόξενο περιβάλλον που ανοίγει 
+τις πόρτες του από νωρίς το πρωί για καφέ και στη συνέχεια 
+για κρασί με τα απαραίτητα συνοδευτικά όπως σαλάτες, τάρτες 
+και μπρουσκέτες.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Το Wine Up με τη πολυετή εμπειρία του στο χώρο του κρασιού, 
+αντιπροσωπεύει μικρούς παραγωγούς από όλη την Ελλάδα, ενώ 
+έχει δημιουργήσει έναν χώρο στον οποίο έχετε τη δυνατότητα να 
+αγοράσετε και να απολαύσετε εκλεκτά αποστάγματα που τα 
+συνοδεύουν πιάτα αρμονικά δεμένα.
+
+Ώρες λειτουργίας
+Και μεσημ. Κυρ. από το απόγευμα</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Το all day cafe-bar Big Spoon μπορείτε να το επισκεφτείτε το 
+πρωί για καφέ, το μεσημέρι για μια παγωμένη μπύρα με τη 
+συνοδεία γευστικών snacks και σπιτικών γλυκών, ενώ το 
+βράδυ ενδείκνυται για ποτό ή cocktail.</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Στο wine bar Grapes έχετε την ευκαιρία να δοκιμάσετε τις καλύτερες 
+ετικέτες κρασιών αποκλειστικά επιλεγμένες, από τον Ελληνικό αλλά 
+και ξένο αμπελώνα, Ελληνικά αποστάγματα και μπύρες και παράλληλα 
+να γευτείτε ιδιαίτερα συνοδευτικά τυριών και αλλαντικών.</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Στον καλαίσθητο χώρο του wine bar By the Glass μπορείτε να 
+απολαύσετε τον καφέ ή το πρωινό σας, να απολαύσετε το 
+πιάτο ημέρας ή εδέσματα από τη μεσογειακή κουζίνα που 
+συνδυάζεται αρμονικά με το κρασί της επιλογής σας.
+
+Ώρες λειτουργίας
+Από το πρωί.</value>
+  </data>
+</root>

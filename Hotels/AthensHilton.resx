@@ -1,0 +1,114 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Το Athens Hilton βρίσκεται σε προνομιακή θέση στο κέντρο της Αθήνας και διαθέτει 
+μαγευτική θέα στην Ακρόπολη προσφέροντας στους επισκέπτες του άνετη διαμονή
+ σ' ένα όμορφο περιβάλλον διακριτικής πολυτέλειας.Η διαμονή σε ένα δωμάτιο ή 
+μια σουίτα του Athens Hilton συνδυάζει το σοφιστικέ στιλ πέντε αστέρων με 
+πλήθος ανέσεων. Ευρύχωρα δωμάτια με σύγχρονη διακόσμηση και άφθονο
+φυσικό φως δίνουν σαφή έμφαση στην άνεση, στην κομψότητα και στην πολυτέλεια.
+Τα τέσσερα εστιατόρια και τα δύο μπαρ που διαθέτει, το spa, το γυμναστήριο και το 
+κέντρο αισθητικής καθώς και η μεγαλύτερη εξωτερική πισίνα στο κέντρο της Αθήνας,
+είναι μόνο λίγοι από τους λόγους για να το επιλέξουν οι επισκέπτες της πόλης. Το κομψό 
+Galaxy Bar του τελευταίου ορόφου προσφέρει επώνυμα κοκτέιλ με θέα στην Ακρόπολη 
+από την υπαίθρια βεράντα του, ενώ οι 22 αίθουσές του καλύπτουν κάθε ανάγκη για τη 
+διοργάνωση συνεδρίων και λοιπών εκδηλώσεων.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Στην καρδιά της εμπορικής κίνησης της πόλης και μόλις 25 λεπτά 
+από το αεροδρόμιο με το Μετρό, το Κέντρο Γραμματειακής 
+Υποστήριξης του Hilton Αθηνών είναι ιδανικό για τους 
+επαγγελματίες που δεν μπορούν ν’ αφήσουν πίσω τις υποθέσεις 
+τους. Είτε διοργανώνετε ένα συνέδριο, είτε μια εκδήλωση σε μια
+από τις 22 αίθουσες του Hilton, ή απλά επιθυμείτε να παραμείνετε 
+σε επαφή με το επαγγελματικό σας περιβάλλον.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Απολαύστε μια βουτιά στην ανοιχτή εξωτερική πισίνα του Hilton 
+Αθηνών, μήκους 25μ.Χαλαρώστε δίπλα στα φοινικόδεντρα μ’ ένα
+ κοκτέιλ από το υπέροχο μπαρ, απολαύστε ένα δροσερό γεύμα 
+δίπλα στην πισίνα στο Oasis Bar &amp; Grill ή απλά απολαύστε την 
+ηρεμία ενώ τα παιδιά θα παίζουν στην διπλανη παιδική πισίνα.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Απολαύστε την εκπληκτική θέα στην Ακρόπολη κάτω από έναν 
+ουρανό γεμάτο αστέρια, στο υπέροχο Galaxy Restaurant &amp; Bar 
+του Hilton Αθηνών. Το Galaxy είναι από τα πιο αγαπημένα στέκια 
+των κομψών Αθηναίων, που από νωρίς το απόγευμα, 
+συγκεντρώνονται για ν’ απολαύσουν το ηλιοβασίλεμα με τη
+ συνοδεία κοκτέιλ και lounge μουσικής.</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Διαθέσιμο είτε μ’ ένα διπλό, είτε με δύο μονά κρεβάτια, το Executive 
+δωμάτιό σας στο Hilton διαθέτει άνετο μπαλκόνι με εκπληκτική θέα 
+στο Λυκαβηττό και είναι ιδανικό για όσους ταξιδεύουν συχνά για 
+επαγγελματικούς λόγους.</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Με προσοχή στην παραμικρή λεπτομέρεια και υψηλά πρότυπα 
+άνεσης κι αισθητικής, η Προεδρική Σουίτα έχει ένα υπέροχα 
+διακοσμημένο σαλόνι, ξεχωριστή τραπεζαρία, πλήρως 
+εξοπλισμένη κουζίνα και υπέρδιπλο κρεβάτι.
+</value>
+  </data>
+</root>

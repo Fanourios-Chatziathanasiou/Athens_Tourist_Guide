@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.Sharp" Version="5.15.3" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.114.4" />
+    <PackageReference Include="System.Speech" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="EatDrink\StreetFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EatDrink\WineBars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EatDrink\MusicBarsAndClubs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EatDrink\Restaurants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hotels\AthensHilton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hotels\InterContinentalAthenaeum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hotels\NovotelAthens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsideFormEatDrink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsideFormMarkets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsideFormLandmarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Landmarks\Acropolis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Landmarks\AcropolisMuseum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Landmarks\Museums.cs" />
+    <Compile Update="Landmarks\Buildings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Markets\Piraeus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Markets\Glifada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Markets\Kifisia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Markets\Kolonaki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

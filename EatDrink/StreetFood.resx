@@ -1,0 +1,97 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Η έντονη στροφή τα τελευταία χρόνια προς τις προσεγμένες πρώτες ύλες και η τάση 
+για πειραματισμό έχει δώσει νέα πνοή στην κουλτούρα του street food. Σε πλατείες, σε 
+σκαλάκια, σε παγκάκια ή ακόμη και περπατώντας ένα γεύμα στο δρόμο μπορεί να είναι 
+εξίσου ικανοποιητικό και νόστιμο με αυτό σε ένα εστιατόριο. Οι κλασικές επιλογές όπως 
+το ταπεινό σησαμένιο κουλούρι, οι παραδοσιακές τυρόπιτες,  το γρήγορο σουβλάκι, το 
+ψητό καλαμπόκι και οι ζεστοί λουκουμάδες με μέλι βρίσκονται σε κάθε γωνιά της πόλης, 
+καλύπτοντας την πείνα εύκολα και οικονομικά. Το σκηνικό έχει εμπλουτιστεί και με νέες, 
+εισαγόμενες γεύσεις όπως φαλάφελ, τορτίγιες, λαχματζούν, μπέγκελ, ινδικές πίτες, και 
+μπέργκερς που έχουν ενσωματωθεί στην τοπική κουζίνα, αποκτώντας φανατικό κοινό. </value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Στη Λεωφόρο Βουλιαγμένης στη Γλυφάδα θα συναντήσετε το 
+American Burger. Στον κατάλογό του θα βρείτε νόστιμα burgers 
+επηρεασμένα από την Αμερικάνικη και Βορειοαμερικάνικη κουζίνα 
+καθώς και πλούσια πρωινά.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Στο εστιατόριο Just Burgers στη Γλυφάδα έχετε τη δυνατότητα 
+να γευτείτε σπιτικά Burger εξαιρετικής ποιότητας και γεύσεις.
+
+Ώρες λειτουργίας
+Kαθημερινά από 12.30 μεσημ.-12.30 το βράδυ. Σάβ. έως 2 π.μ. 
+Κυρ. από 2 μ.μ. Δευτ. από 4 μ.μ.
+</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Το Boutique Kalamaki είναι μια μοντέρνα ταβέρνα στην οποία μπορείτε 
+να απολαύσετε νόστιμα καλαμάκια, τυλιχτά σουβλάκια, ορεκτικά και σαλάτες 
+τα οποία μπορείτε να συνοδεύσετε με κάποιο αναψυκτικό ή ποτό.
+
+Ώρες λειτουργίας
+Και μεσημ.</value>
+  </data>
+</root>

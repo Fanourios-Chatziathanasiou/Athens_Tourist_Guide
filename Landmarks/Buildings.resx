@@ -1,0 +1,117 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Τα ιστορικά κτίρια της Αθήνας αφηγούνται φλύαρα όλες τις φάσεις της μεταμόρφωσής
+της στη σύγχρονη πόλη που αντικρίζουμε σήμερα. Μοναδικά αριστουργήματα σημαντικής 
+αρχιτεκτονικής αξίας εξακολουθούν να εντυπωσιάζουν κοσμώντας τον πυκνό αστικό ιστό με 
+μοναδικές πινελιές. Ιστορικά οικοδομήματα κρύβουν μύθους και γεγονότα που αφηγούνται 
+πρόθυμα σε εκείνον που θα τα ανακαλύψει. Αναζητήστε τα.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Το μέγαρο της Ακαδημίας Αθηνών οικοδομήθηκε σε έκταση που 
+δώρισε η Μονή Πετράκη με δαπάνη του ομογενούς επιχειρηματία 
+της Βιέννης Σίμωνα Σίνα. Αν και είχε χωροθετηθεί από το 1842 ως 
+μέρος της τριλογίας, η κατασκευή ολοκληρώθηκε το 1885. Ο 
+αρχιτέκτονας Θεόφιλος Χάνσεν, με την συμβολή του Ερνέστου 
+Τσίλερ στην επίβλεψη, έδωσε στην Αθήνα ένα εξαιρετικό νεοκλασικό 
+δείγμα ιωνικού ρυθμού από πεντελικό μάρμαρο και πειραϊκή πέτρα. 
+Τα διακοσμητικά του στοιχεία παρουσιάζουν την σχέση της αρχαίας 
+ελληνικής παράδοσης με το όραμα της νέας εποχής.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Η ιστορία του κτιρίου της Βουλής των Ελλήνων συνδέεται με 
+την ιστορία του σύγχρονου ελληνικού κράτους ακολουθώντας 
+τις αλλαγές του πολιτεύματος. Ανεγέρθηκε ως κατοικία του 
+βασιλιά Όθωνα το 1843 στο λόφο της Μπουμπουνίστρας για 
+να αντικρίζει την Ακρόπολη. Επιβλητικό και λιτό κτίριο σχεδιάστηκε 
+από τον Βαυαρό αρχιτέκτονα Γκέρτνερ. Έναν περίπου αιώνα μετά 
+την κατασκευή του, έχοντας επιζήσει δύο σοβαρών πυρκαγιών και 
+ποικίλων χρήσεων, εγκαταστάθηκε με απόφαση της κυβέρνησης 
+Βενιζέλου η Βουλή των Ελλήνων και λειτουργεί εκεί από τότε, 
+διακόπτοντας μόνο κατά τη δικτατορία του Μεταξά και την Χούντα.</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Διορατικός και οξύνους ο ευεργέτης Ευαγγέλης Ζάππας 
+χρηματοδοτεί το 1859 την κατασκευή κτιρίου για τη 
+φιλοξενία εκθέσεων και υπηρεσιών με αφορμή τους 
+πρώτους Ολυμπιακούς Αγώνες του 1896. Μετά από 
+πολλές περιπέτειες και το θάνατο του Ζάππα, η ελληνική 
+κυβέρνηση παραχωρεί έκταση δίπλα στον Εθνικό Κήπο. Το 
+εμβληματικό νεοκλασικό κτίριο με πρόπυλο κορινθιακού ρυθμού, 
+εντυπωσιακούς κήπους και συνολικά αρμονική συγκρότηση 
+εγκαινιάζεται το 1888 με μελέτη του Θεόφιλου Χάνσεν. Στο περιστύλιο 
+του Μεγάρου εντοιχίστηκε η κεφαλή του Ευαγγέλη Ζάπα έπειτα από επιθυμία 
+του.</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Το συγκρότημα του Πολυτεχνείου συνδέεται με τη νεότερη πολιτική 
+ιστορία και με τις διεκδικήσεις του ελληνικού λαού. Η παρουσία του 
+στην Κατοχή και στα Δεκεμβριανά ήταν καθοριστική για τα γεγονότα. 
+Με την Εξέγερση του Πολυτεχνείου τη 17η Δεκεμβρίου του 1973 αλλάζει 
+η πορεία της χώρας. Το ιστορικό κτίριο κατασκευάστηκε σε τρεις φάσεις. 
+Την περίοδο 1862-1876 κτίστηκαν τα τρία πρώτα κτίρια σε σχέδια του 
+Λύσσανδρου Καυταντζόγλου. Τη δεκαετία του 1930 κατασκευάζεται το 
+κτίριο Γκίνη από τον αρχιτέκτονα Κώστα Κιτσίκη και τη δεκαετία του 1950 
+δύο ακόμη πτέρυγες σε σχέδια του Εμμανουήλ Κριεζή.</value>
+  </data>
+</root>

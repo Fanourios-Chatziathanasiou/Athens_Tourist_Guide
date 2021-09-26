@@ -1,0 +1,121 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>
+Με πάνω από 400 ξενοδοχεία σε 65 χώρες, το Crowne Plaza Athens είναι μια από τις μεγαλύτερες ξενοδοχειακές μονάδες 
+στον κόσμο με ξενοδοχεία που βρίσκονται στα μεγάλα αστικά κέντρα και τους τουριστικούς προορισμούς
+
+Όλα τα δωμάτια του Crowne Plaza στην Αθήνα διαθέτουν κλιματισμό, δορυφορική τηλεόραση επίπεδης οθόνης και μίνι 
+μπαρ συνδυάζοντας παροχές υψηλών προδιαγραφών με μοντέρνο σχεδιασμό και στιλ.
+
+Στις παροχές του ξενοδοχείου επίσης περιλαμβάνονται Wi-Fi, ποικιλία επιλογών εστίασης με μεσογειακές και διεθνείς
+ σπεσιαλιτέ, Roof Garden με απαράμιλλη θέα στην Ακρόπολη και το Λόφο του Λυκαβηττού, ιδιωτικός χώρο στάθμευσης 
+και πλήρως εξοπλισμένες συνεδριακές εγκαταστάσεις, που με τη βοήθεια του εξειδικευμένου προσωπικού σας εγγυώνται 
+απόλυτη επιτυχία στην οργάνωση επαγγελματικών εκδηλώσεων. 
+
+Το Crowne Plaza Athens βρίσκεται στην καρδιά της Αθήνας και απέχει μόλις 10 λεπτά από την Ακρόπολη, ενώ είναι πολύ
+ κοντά σε όλα τα τουριστικά αξιοθέατα της πόλης και τα μέσα μεταφοράς.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Η αίθουσα Δημόκριτος είναι ιδανική για δεξιώσεις μέχρι 150 
+άτομα και κοκτέιλ έως 200 άτομα. Μπορεί να φιλοξενήσει επίσης
+180 άτομα σε θεατρική διάταξη. Τελευταίο αλλά όχι ασήμαντο, 
+ο Δημόκριτος διαθέτει ιδιωτική είσοδο.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Το Roof Garden Restaurant είναι ένα υπέροχο μέρος για να 
+χαλαρώσετε κατά τη γαλήνια άνοιξη, το ζεστό καλοκαίρι 
+και τους φθινοπωρινούς μήνες. Το γκουρμέ μενού της 
+Μεσογείου και τα ελαφριά πιάτα προσθέτουν μια νότα 
+πολυτέλειας, ενώ το ίδιο κάνουν και ενδιαφέροντα κοκτέιλ
+του μπαρ στον τελευταίο όροφο του. Ιδανική ώρα είναι το 
+σούρουπο καθώς ο ουρανός και το τοπίο αλλάζει σιγά-σιγά 
+στις αποχρώσεις του ηλιοβασιλέματος. Δίπλα από το εστιατόριο
+σε ξεχωριστό χώρο, μπορείτε να απολαύσετε τη δροσιά της πισίνας
+ και να χαρείτε τον ήλιο επάνω σε άνετες ξαπλώστρες.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Το έμπειρο προσωπικό μας θα σας ευχαριστήσει με κοκτέιλ 
+στο Nectar μπαρ του λόμπι, το οποίο είναι γεμάτο με κόσμο. 
+Το καλοκαίρι ετοιμαστείτε για μια μοναδική εμπειρία στην ταράτσα 
+του ξενοδοχείου.</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Τηλέφωνο, Κλιματισμός, Θησαυροφυλάκιο, Θέρμανση, 
+Βίντεο αν ζητηθεί, Ραδιόφωνο AM/FM, Γραφείο, Βραστήρας, 
+Μπουρνούζι, Εξυπηρέτηση Δωματίου 24 ώρες τη μέρα, 
+Τηλέφωνο στο μπάνιο, Wi-Fi, Είδη μπάνιου, Πιστολάκι μαλλιών, Παντόφλες</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Το έμπειρο προσωπικό μας θα σας ευχαριστήσει με κοκτέιλ 
+στο Nectar μπαρ του λόμπι, το οποίο είναι γεμάτο με κόσμο. 
+Το καλοκαίρι ετοιμαστείτε για μια μοναδική εμπειρία στην ταράτσα 
+του ξενοδοχείου.</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>Τηλέφωνο, Κλιματισμός, Θησαυροφυλάκιο, Θέρμανση,
+ Βίντεο αν ζητηθεί, Ραδιόφωνο AM/FM, Γραφείο, Βραστήρας, 
+Μπουρνούζι, Εξυπηρέτηση Δωματίου 24 ώρες τη μέρα, 
+Τηλέφωνο στο μπάνιο, Wi-Fi, Είδη μπάνιου, Πιστολάκι μαλλιών, Παντόφλες</value>
+  </data>
+</root>

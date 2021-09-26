@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="intercontinentalAthinaerum_premiere" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\intercontinentalAthinaerum_premiere.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hilton_business_center" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hilton_business_center.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istorm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istorm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Estiatorio_Mouseio_Akropolis1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Estiatorio_Mouseio_Akropolis1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mouseio_akropolis_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mouseio_akropolis_11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="irepair" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\irepair.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kolwnaki_shopping_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kolwnaki_shopping_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hilton_athens_exterior_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hilton_athens_exterior_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="astron_bar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\astron_bar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boiler" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boiler.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="simple_caractere" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\simple_caractere.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="afrikana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\afrikana.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="By_the_glass" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\By_the_glass.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="just_burgers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\just_burgers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="classic_nouveau" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\classic_nouveau.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8NbyRzZ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8NbyRzZ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ethniko_arxaiologiko_mouseio_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ethniko_arxaiologiko_mouseio_03.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NicePng_acs-logo-png_3218481" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NicePng_acs-logo-png_3218481.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hiltonpresidential_suite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hiltonpresidential_suite.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="politirio_mouseio_akropolis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\politirio_mouseio_akropolis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iliou_melathron_kafe_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iliou_melathron_kafe_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Botrinis-Restaurant-Athens-Greece-03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Botrinis-Restaurant-Athens-Greece-03.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="crowne_plaza_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\crowne_plaza_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cavakifisia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cavakifisia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wine_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wine_up.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="novotel_athens_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\novotel_athens_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kifisia_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kifisia_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ROOMS-3_result" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ROOMS-3_result.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hilton_pool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hilton_pool.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="matsuhisa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\matsuhisa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bottega_Veneta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bottega_Veneta.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jumbo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jumbo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zara" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zara.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="public" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\public.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="american_burger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\american_burger.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RZdOn9C" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RZdOn9C.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Athens-Monastiraki-Square-Night (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Athens-Monastiraki-Square-Night (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arxaia_agora_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arxaia_agora_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="novotel_athens_standard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\novotel_athens_standard.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gucci" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gucci.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maison_marasil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maison_marasil.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ethniko_istoriko_mouseio_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ethniko_istoriko_mouseio_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ethniki pinakothiki_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ethniki pinakothiki_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wp4164660" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wp4164660.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="big_spoon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\big_spoon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Presidential-Suite-1-1280x851" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Presidential-Suite-1-1280x851.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="botrinis'" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\botrinis'.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ethniko_arxaiologiko_mouseio_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ethniko_arxaiologiko_mouseio_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7282562" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7282562.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dpam" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dpam.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="glyfada_shopping_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\glyfada_shopping_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="street_food" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\street_food.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kotsovolos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kotsovolos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PtdaRVe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PtdaRVe.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="erechtheio_05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\erechtheio_05.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="athenaum_intercontinental_101_classic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\athenaum_intercontinental_101_classic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="naos_athinas_nikis_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\naos_athinas_nikis_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="novotel_athens_restaurant_novagora" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\novotel_athens_restaurant_novagora.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="akanthus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\akanthus.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Milos_Hilton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Milos_Hilton.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="abstract-wallpaper-20071915355145" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abstract-wallpaper-20071915355145.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="athenaum_intercontinental_classroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\athenaum_intercontinental_classroom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Funky_Gourmet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Funky_Gourmet.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\net5.0-windows\Sliderimages\5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9pSqg7l" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9pSqg7l.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nectar_bar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nectar_bar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="michalarias_art" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\michalarias_art.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pandora" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pandora.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="balenciaga" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\balenciaga.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wine bar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wine bar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Novotel_clairdelune" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Novotel_clairdelune.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grapes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grapes.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="basegrill" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\basegrill.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="papaioannou" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\papaioannou.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hiltonexecutive_room_plus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hiltonexecutive_room_plus.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="roof_garden" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\roof_garden.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nike.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefault1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hq720" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hq720.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="polytexneio_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\polytexneio_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="palaia_vouli_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\palaia_vouli_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="181" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\181.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="56" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zappeion_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zappeion_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Athens-Monastiraki-Square-Night (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Athens-Monastiraki-Square-Night (1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hq7201" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hq7201.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="novotel_athens_ballroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\novotel_athens_ballroom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="propylaia_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\propylaia_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="democritus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\democritus.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oi_klitues_tis_akropolis_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\oi_klitues_tis_akropolis_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="peiraias_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\peiraias_12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wiEB063" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wiEB063.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Estiatorio_Mouseio_Akropolis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Estiatorio_Mouseio_Akropolis.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parthenonas_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parthenonas_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="baba_ji" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\baba_ji.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="intercontinentalAthinaerum_spa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\intercontinentalAthinaerum_spa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gap.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="akadimia_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\akadimia_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="athenaum_intercontinental_suite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\athenaum_intercontinental_suite.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vouli_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vouli_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AcropolisMuseum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AcropolisMuseum.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="prada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\prada.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Athens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Athens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mouseio_mpenaki_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mouseio_mpenaki_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="athenaum_intercontinental_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\athenaum_intercontinental_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lohan_night_club_athens48-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lohan_night_club_athens48-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ethniko_arxaiologiko_mouseio_031" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ethniko_arxaiologiko_mouseio_031.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Courtyard_Zappeion_Athens,_Greece" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Courtyard_Zappeion_Athens,_Greece.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d8mcm29-231b482c-535c-4343-85dd-aed3a19e05dd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d8mcm29-231b482c-535c-4343-85dd-aed3a19e05dd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\18.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boutique_Kalamaki" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Boutique_Kalamaki.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hilton_athens_exterior_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hilton_athens_exterior_21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="athens_video_play1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\athens_video_play1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,809 @@
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeGuest.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeUser.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksGuest.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksUser.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkGuest.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkUser.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsGuest.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsUser.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsGuest.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsUser.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Visual Studio Projects\Source\Repos\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsGuest.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsUser.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkGuest.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkUser.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeGuest.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeUser.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksGuest.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksUser.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsGuest.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsUser.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\New folder (4)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsGuest.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsUser.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkGuest.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkUser.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeGuest.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeUser.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksGuest.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksUser.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsGuest.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsUser.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+D:\ComputerScience\C#\Taxeia-anaptuxi-efarmogon_v5\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsGuest.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsUser.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkGuest.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkUser.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeGuest.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeUser.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksGuest.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksUser.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsGuest.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsUser.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\akib\Desktop\Taxeia-anaptuxi-efarmogon_v6\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsGuest.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsUser.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkGuest.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkUser.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeGuest.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeUser.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksGuest.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksUser.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsGuest.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsUser.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\akib\Desktop\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsGuest.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsUser.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkGuest.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkUser.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeGuest.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeUser.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksGuest.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksUser.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsGuest.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsUser.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\merge\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AthensHilton.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.NovotelHotelAthens.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsGuest.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsUser.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkGuest.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrinkUser.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeGuest.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeUser.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksGuest.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksUser.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsGuest.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsUser.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\akib\Desktop\merge\very last try\1\TAXEIA NEW\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InterContinentalAthenaeum.resources
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AthensHilton.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InterContinentalAthenaeum.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.NovotelHotelAthens.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsGuest.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodationsUser.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeGuest.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHomeUser.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksGuest.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarksUser.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsGuest.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarketsUser.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Acropolis.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AcropolisMuseum.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Glifada.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Kifisia.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Kolonaki.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Piraeus.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Museums.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Buildings.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.MusicBarsAndClubs.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Restaurants.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.StreetFood.resources
+C:\Users\akib\Desktop\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.WineBars.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.MusicBarsAndClubs.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Restaurants.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.StreetFood.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.WineBars.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AthensHilton.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InterContinentalAthenaeum.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.NovotelHotelAthens.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Acropolis.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AcropolisMuseum.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Buildings.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Museums.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Glifada.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Kifisia.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Kolonaki.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Piraeus.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\a\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.MusicBarsAndClubs.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Restaurants.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.StreetFood.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.WineBars.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AthensHilton.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InterContinentalAthenaeum.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.NovotelHotelAthens.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Acropolis.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AcropolisMuseum.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Buildings.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Museums.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Glifada.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Kifisia.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Kolonaki.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Piraeus.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+D:\ComputerScience\C#\WinFormsApp3 (2)\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.MusicBarsAndClubs.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Restaurants.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.StreetFood.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.WineBars.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AthensHilton.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InterContinentalAthenaeum.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.NovotelHotelAthens.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Acropolis.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AcropolisMuseum.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Buildings.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Museums.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Glifada.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Kifisia.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Kolonaki.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Piraeus.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.exe
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Speech.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\ComputerScience\C#\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Speech.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.MusicBarsAndClubs.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Restaurants.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.StreetFood.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.WineBars.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AthensHilton.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InterContinentalAthenaeum.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.NovotelHotelAthens.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Acropolis.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AcropolisMuseum.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Buildings.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Museums.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Glifada.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Kifisia.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Kolonaki.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Piraeus.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Speech.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.MusicBarsAndClubs.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Restaurants.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.StreetFood.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.WineBars.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AthensHilton.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InterContinentalAthenaeum.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.NovotelHotelAthens.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Acropolis.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AcropolisMuseum.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Buildings.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Museums.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Glifada.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Kifisia.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Kolonaki.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Piraeus.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\akib\Desktop\final tourist guide\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.exe
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\System.Speech.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AboutForm.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Calendar.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.CalendarEdit.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.MusicBarsAndClubs.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Restaurants.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.StreetFood.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.WineBars.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AthensHilton.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.CrownePlazaAthens.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InterContinentalAthenaeum.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.NovotelHotelAthens.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormAccommodations.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormEatDrink.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormHome.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormLandmarks.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.InsideFormMarkets.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Acropolis.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AcropolisMuseum.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Buildings.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Museums.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.LoginForm.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Glifada.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Kifisia.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Kolonaki.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Piraeus.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.OutsideForm.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.RegisterForm.resources
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+D:\ComputerScience\C#\tourist guide_v15\tourist guide\tourist_guide_v11\tourist_guide\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache

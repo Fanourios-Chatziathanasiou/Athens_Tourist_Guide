@@ -1,0 +1,87 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Αν η ιδέα μιας βόλτας για ψώνια με θαλασσινή αύρα, ανάμεσα σε εμβληματικά κτίρια του 19ου αιώνα 
+δεν σας αφήνει ασυγκίνητους, τότε κατευθυνθείτε στον Πειραιά. Με εύκολη πρόσβαση χάρη στον ηλεκτρικό σιδηρόδρομο, ο Πειραιάς φημίζεται για την αγορά του που ικανοποιεί όλα τα πορτοφόλια και όλες τις ανάγκες.Στους ίδιους δρόμους βρίσκονται ακριβά επώνυμα καταστήματα αλλά και πιο προσιτά. Τα εμπορικά κέντρα της περιοχής προσφέρουν ακόμη περισσότερες επιλογές ενώ το παραδοσιακό κυριακάτικο παζάρι στην πλατεία Ιπποδαμείας θα σας εντυπωσιάσει με την ετερόκλητη πραμάτεια και τις πάμφθηνες τιμές.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Παιχνίδια σε τεράστια ποικιλία, για όλες τις ηλικίες και όλα τα γούστα, 
+επώνυμες μάρκες αλλά και εισαγωγής, βρεφικά είδη, είδη 
+βιβλιοχαρτοπωλείου αλλά και εποχιακά, διακοσμητικά και διάφορα 
+είδη, είναι λίγοι μόνο από τους θησαυρούς που θα βρείτε στα Jumbo.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Το Ελληνικό πολυκατάστημα ψυχαγωγίας και επικοινωνίας Public, 
+σας προσφέρει μια τεράστια γκάμα προϊόντων. Υπολογιστές, tablets, 
+προϊόντα τηλεφωνίας, αξεσουάρ για κάθε συσκευή, προϊόντα εικόνας 
+και ήχου, gadgets, ελληνικά και αγγλικά βιβλία, comics, χαρτικά και 
+σχολικά, παιχνίδια και άλλα. Στόχος του είναι να παρέχει στον επισκέπτη 
+μία σειρά νέων και μοναδικών εμπειριών.</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Η αλυσίδα καταστημάτων Ζάρα ανήκει στον Ισπανικό όμιλο 
+Inditex και ειδικεύεται στο χώρο της ένδυσης για άνδρες, γυναίκες 
+και παιδιά, διαθέτοντας ρούχα μοντέρνα, αναδεικνύοντας το στυλ 
+και την προσωπικότητά σας.</value>
+  </data>
+</root>
