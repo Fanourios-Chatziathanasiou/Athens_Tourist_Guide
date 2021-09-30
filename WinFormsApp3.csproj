@@ -4,6 +4,8 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>istockphoto-1008451248-170667a.ico</ApplicationIcon>
+    <AssemblyName>Athens_Tourist_Guide</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

@@ -44,7 +44,7 @@ namespace WinFormsApp3
             }
 
             //Checks if email is valid
-            if (!Regex.Match(textBoxEmail.Text, "^[a-zA-Z]+[@][a-zA-Z]+[.][a-zA-Z]+$").Success) {
+            if (!Regex.Match(textBoxEmail.Text, "^[α-ωΑ-Ωa-zA-Z0-9]+[@][α-ωΑ-Ωa-zA-Z]+[.][α-ωΑ-Ωa-zA-Z]+$").Success) {
                 MessageBox.Show("Μη έγκυρη μορφή email.");
                 return;
             }

@@ -442,7 +442,7 @@ namespace WinFormsApp3
             this.iconButton1.Size = new System.Drawing.Size(189, 64);
             this.iconButton1.TabIndex = 22;
             this.iconButton1.Tag = "Crowne Plaza Athens";
-            this.iconButton1.Text = "Καταχώρηση μηνύματος";
+            this.iconButton1.Text = "S";
             this.iconButton1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.iconButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.iconButton1.UseVisualStyleBackColor = false;
