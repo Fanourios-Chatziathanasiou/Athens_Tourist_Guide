@@ -15,11 +15,11 @@ namespace WinFormsApp3
     public partial class InsideFormAccommodations : Form
     {
         SpeechSynthesizer spee = new SpeechSynthesizer();
-        string userNamecopy;
-        public InsideFormAccommodations(string usercopy)
+        
+        public InsideFormAccommodations()
         {
             InitializeComponent();
-            userNamecopy = usercopy;
+            
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -53,21 +53,16 @@ namespace WinFormsApp3
             }
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
        
 
 
 
         private void CrownePlazaAthens_Click(object sender, EventArgs e)
         {
-           if (userNamecopy != "Guest")
+           if (StaticFieldsClass.usernameCopy != "Guest")
             { 
             CrownePlazaAthens hotel = new CrownePlazaAthens();
-            hotel.Show();
+            hotel.ShowDialog();
             }else
             {
                 MessageBox.Show("Παρακαλώ κάντε εγγραφή για να δείτε το πλήρες περιεχόμενο της εφαρμογής.");
@@ -76,10 +71,10 @@ namespace WinFormsApp3
 
         private void iconButton2_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 AthensHilton hotel = new AthensHilton();
-                hotel.Show();
+                hotel.ShowDialog();
             }
             else
             {
@@ -89,10 +84,10 @@ namespace WinFormsApp3
 
         private void iconButton3_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 InterContinentalAthenaeum hotel = new InterContinentalAthenaeum();
-                hotel.Show();
+                hotel.ShowDialog();
             }
             else
             {
@@ -102,10 +97,10 @@ namespace WinFormsApp3
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 NovotelHotelAthens hotel = new NovotelHotelAthens();
-                hotel.Show();
+                hotel.ShowDialog();
             }
             else
             {

@@ -13,59 +13,28 @@ namespace WinFormsApp3
 {
     public partial class InsideFormLandmarks : Form
     {
-        string userNamecopy;
+        
         SpeechSynthesizer spee = new SpeechSynthesizer();
-        public InsideFormLandmarks(string usercopy)
+        public InsideFormLandmarks()
         {
             InitializeComponent();
-            userNamecopy = usercopy;
+            
         }
-
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void InsideFormAccommodations_Load(object sender, EventArgs e)
         {
-            String iconButtonName;
-            Control[] Controls;
-            //String comboBoxName;
-
-            foreach (var voice in spee.GetInstalledVoices())
-            {
-                comboBox1.Items.Add(voice.VoiceInfo.Name);
-                comboBox2.Items.Add(voice.VoiceInfo.Name);
-                comboBox3.Items.Add(voice.VoiceInfo.Name);
-                comboBox4.Items.Add(voice.VoiceInfo.Name);
-            }
-            for (int i = 5; i < 15; i += 3)
-            {
-                iconButtonName = "iconButton" + i.ToString();
-                Controls = this.Controls.Find(iconButtonName, true);
-                Controls[0].Enabled = false;
-
-                iconButtonName = "iconButton" + (i + 1).ToString();
-                Controls = this.Controls.Find(iconButtonName, true);
-                Controls[0].Enabled = false;
-            }
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
 
         }
 
-       
+
 
 
 
         private void CrownePlazaAthens_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 Acropolis landmark = new Acropolis();
-                landmark.Show();
+                landmark.ShowDialog();
             }
             else
             {
@@ -76,10 +45,10 @@ namespace WinFormsApp3
 
         private void iconButton2_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 Museums landmark = new Museums();
-                landmark.Show();
+                landmark.ShowDialog();
             }
             else
             {
@@ -90,10 +59,10 @@ namespace WinFormsApp3
 
         private void iconButton3_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 Buildings landmark = new Buildings();
-                landmark.Show();
+                landmark.ShowDialog();
             }
             else
             {
@@ -104,10 +73,10 @@ namespace WinFormsApp3
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 AcropolisMuseum landmark = new AcropolisMuseum();
-                landmark.Show();
+                landmark.ShowDialog();
             }
             else
             {

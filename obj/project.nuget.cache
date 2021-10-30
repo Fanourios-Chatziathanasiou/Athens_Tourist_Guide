@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ARZAr3u/xvpzHTcfKHd0xeDX4i/Arqo3cLGMRE/ko+C4MRiD2q9BdSaS0TMwpSM6zkfAw4puyGx9MApTe4W4+A==",
+  "dgSpecHash": "6VxY7NlIW5CLyDl4eFnRRYmLEEvz8V8ti34OYhyNytTaHTmR9KHnH++xRlJ28hbnLx3Re4P1YrGkytDQnlQtMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akib\\Desktop\\New folder (4)\\tourist_guide\\WinFormsApp3.csproj",
+  "projectFilePath": "C:\\Users\\akib\\Desktop\\Projects\\Athens_Tourist_Guide\\WinFormsApp3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akib\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\akib\\.nuget\\packages\\fontawesome.sharp\\5.15.3\\fontawesome.sharp.5.15.3.nupkg.sha512",

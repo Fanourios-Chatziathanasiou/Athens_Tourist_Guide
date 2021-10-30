@@ -18,7 +18,6 @@ namespace WinFormsApp3
     {
         int querriesffected;
         private int ImageNumber = 26;
-        String username = "kapsos";
         String date;
         String date_now;
         String note;
@@ -39,15 +38,10 @@ namespace WinFormsApp3
             ImageNumber++;
         }
 
-        private void CrownePlazaAthens_Load(object sender, EventArgs e)
+        private void Museums_Load(object sender, EventArgs e)
         {
             this.ActiveControl = label1;
             pictureBox1.ImageLocation = @"Sliderimages\" + ImageNumber.ToString() + ".jpg";
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -71,7 +65,7 @@ namespace WinFormsApp3
                     note = richTextBox1.Text;
                     //MessageBox.Show(richtextboxesList[0]);
                     insertcommand.CommandText = selectSQL;
-                    insertcommand.Parameters.AddWithValue("@username_", username);
+                    insertcommand.Parameters.AddWithValue("@username_", StaticFieldsClass.usernameCopy);
                     insertcommand.Parameters.AddWithValue("@date_to_note", date);
                     insertcommand.Parameters.AddWithValue("@datetime_now", date_now);
                     insertcommand.Parameters.AddWithValue("@note", note);
@@ -112,39 +106,17 @@ namespace WinFormsApp3
             richTextBox1.Enabled = true;
         }
 
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void iconButton2_Click(object sender, EventArgs e)
         {
-            printBtn1.PerformClick();
+            ExportToDocFile exportToDocFile = new ExportToDocFile();
+            exportToDocFile.exportToDesktop(this);
+
         }
 
-        private void printBtn1_Click(object sender, EventArgs e)
+        private void exportBtn1_Click(object sender, EventArgs e)
         {
-            Print pt = new Print();
-
-            Control[] Controls;
-            List<string> textToPrint = new List<string>();
-            String labelName;
-            for (int i = 1; i < 13; i++)
-            {
-                String labelText;
-
-                //διαλέγω label
-                labelName = "label" + i.ToString();
-                //βρισκώ τα controls του
-                Controls = this.Controls.Find(labelName, true);
-                labelText = Controls[0].Text.ToString();
-                textToPrint.Add(labelText);
-            }
-            
-
-            pt.LabelToPrint = textToPrint;
-            pt.Printing();
+            ExportToDocFile exportToDocFile = new ExportToDocFile();
+            exportToDocFile.exportToDesktop(this);
         }
-
     }
-}
+    }

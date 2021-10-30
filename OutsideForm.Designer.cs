@@ -38,7 +38,6 @@ namespace WinFormsApp3
             this.eatDrinkToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.logoutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panelDesktop = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -80,14 +79,12 @@ namespace WinFormsApp3
             this.eatDrinkToolStripMenuItem,
             this.logoutToolStripMenuItem,
             this.exitToolStripMenuItem,
-            this.helpToolStripMenuItem,
             this.aboutToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1558, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
-            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // homeToolStripMenuItem
             // 
@@ -116,7 +113,7 @@ namespace WinFormsApp3
             this.marketsToolStripMenuItem.Name = "marketsToolStripMenuItem";
             this.marketsToolStripMenuItem.Size = new System.Drawing.Size(73, 24);
             this.marketsToolStripMenuItem.Text = "Αγορές";
-            this.marketsToolStripMenuItem.Click += new System.EventHandler(this.αγορέςToolStripMenuItem_Click);
+            this.marketsToolStripMenuItem.Click += new System.EventHandler(this.marketsToolStripMenuItem_Click);
             // 
             // eatDrinkToolStripMenuItem
             // 
@@ -138,13 +135,6 @@ namespace WinFormsApp3
             this.exitToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
             this.exitToolStripMenuItem.Text = "Κλείσιμο";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
-            // 
-            // helpToolStripMenuItem
-            // 
-            this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(79, 24);
-            this.helpToolStripMenuItem.Text = "Βοήθεια";
-            this.helpToolStripMenuItem.Click += new System.EventHandler(this.helpToolStripMenuItem_Click);
             // 
             // aboutToolStripMenuItem
             // 
@@ -317,6 +307,7 @@ namespace WinFormsApp3
             // btnExit
             // 
             this.btnExit.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnExit.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.btnExit.FlatAppearance.BorderSize = 0;
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -471,7 +462,7 @@ namespace WinFormsApp3
             this.btnAccommondations.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAccommondations.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnAccommondations.UseVisualStyleBackColor = false;
-            this.btnAccommondations.Click += new System.EventHandler(this.btnAccommondations_Click);
+            this.btnAccommondations.Click += new System.EventHandler(this.btnAccommodations_Click);
             // 
             // pictureBox1
             // 
@@ -506,7 +497,7 @@ namespace WinFormsApp3
             this.Name = "OutsideForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Athens Tourist Guide";
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.OutsideForm_FormClosed);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.OutsideForm_FormClosing);
             this.Load += new System.EventHandler(this.OutsideForm_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -551,7 +542,6 @@ namespace WinFormsApp3
         private System.Windows.Forms.ToolStripMenuItem eatDrinkToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem logoutToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
         private FontAwesome.Sharp.IconButton btnCalendar;
     }

@@ -23,13 +23,17 @@ namespace WinFormsApp3
         {
             InitializeComponent();
         }
-
-        private void RegisterForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
         //Register Button
+        protected override CreateParams CreateParams
+        { //Very important to cancel flickering effect!!
+            get
+            {
+                CreateParams cp = base.CreateParams;
+                cp.ExStyle |= 0x02000000;  // Turn on WS_EX_COMPOSITED 	Gets or sets a bitwise combination of extended window style values.
+                                           //cp.Style &= ~0x02000000;  // Turn off WS_CLIPCHILDREN not a good idea when combined with above. Not tested alone
+                return cp;
+            }
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             username = textBoxUsername.Text;
@@ -120,8 +124,7 @@ namespace WinFormsApp3
                     command.CommandText = insertSQL;
                     command.Parameters.AddWithValue("@username", username);
                     command.Parameters.AddWithValue("@password", password);
-                    command.Parameters.AddWithValue("@email", email);
-                    //prosthese email
+                    command.Parameters.AddWithValue("@email", email);    
                     command.Prepare();
 
                     command.ExecuteNonQuery();
@@ -130,16 +133,6 @@ namespace WinFormsApp3
             }
             MessageBox.Show("Επιτυχής εγγραφή.Μπορείτε να εισέλθετε με Username: "+username);
             this.Close();
-        }
-
-        private void textBoxUsername_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

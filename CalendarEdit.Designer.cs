@@ -75,6 +75,7 @@ namespace WinFormsApp3
             this.Controls.Add(this.richTextBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "CalendarEdit";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Επεξεργασία Σχολίου";
             this.ResumeLayout(false);
 

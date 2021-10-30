@@ -18,7 +18,6 @@ namespace WinFormsApp3
     {
         int querriesffected;
         private int ImageNumber = 43;
-        String username = "kapsos";
         String date;
         String date_now;
         String note;
@@ -72,7 +71,7 @@ namespace WinFormsApp3
                     note = richTextBox1.Text;
                     //MessageBox.Show(richtextboxesList[0]);
                     insertcommand.CommandText = selectSQL;
-                    insertcommand.Parameters.AddWithValue("@username_", username);
+                    insertcommand.Parameters.AddWithValue("@username_", StaticFieldsClass.usernameCopy);
                     insertcommand.Parameters.AddWithValue("@date_to_note", date);
                     insertcommand.Parameters.AddWithValue("@datetime_now", date_now);
                     insertcommand.Parameters.AddWithValue("@note", note);
@@ -115,6 +114,10 @@ namespace WinFormsApp3
 
         private void printBtn1_Click(object sender, EventArgs e)
         {
+            ExportToDocFile exportToDocFile = new ExportToDocFile();
+            exportToDocFile.exportToDesktop(this);
+            // ** printing module under construction**
+            /*
             Print pt = new Print();
 
             Control[] Controls;
@@ -130,16 +133,19 @@ namespace WinFormsApp3
                 Controls = this.Controls.Find(labelName, true);
 
                 labelText = Controls[0].Text.ToString();
+
                 textToPrint.Add(labelText);
             }
 
             pt.LabelToPrint = textToPrint;
             pt.Printing();
+            */
         }
 
         private void printBtn2_Click(object sender, EventArgs e)
         {
-            printBtn1.PerformClick();
+            ExportToDocFile exportToDocFile = new ExportToDocFile();
+            exportToDocFile.exportToDesktop(this);
         }
     }
 

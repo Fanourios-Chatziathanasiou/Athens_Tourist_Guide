@@ -664,7 +664,7 @@ namespace WinFormsApp3
             this.DoubleBuffered = true;
             this.Name = "InsideFormMarkets";
             this.Tag = "Διαμονή";
-            this.Text = "InsideFormAccommodations";
+            this.Text = "InsideFormMarkets";
             this.Load += new System.EventHandler(this.InsideFormAccommodations_Load);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();

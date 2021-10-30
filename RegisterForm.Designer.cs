@@ -91,7 +91,6 @@ namespace WinFormsApp3
             this.textBoxUsername.Name = "textBoxUsername";
             this.textBoxUsername.Size = new System.Drawing.Size(242, 31);
             this.textBoxUsername.TabIndex = 4;
-            this.textBoxUsername.TextChanged += new System.EventHandler(this.textBoxUsername_TextChanged);
             // 
             // textBoxEmail
             // 
@@ -136,7 +135,6 @@ namespace WinFormsApp3
             this.Name = "RegisterForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "RegisterForm";
-            this.Load += new System.EventHandler(this.RegisterForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

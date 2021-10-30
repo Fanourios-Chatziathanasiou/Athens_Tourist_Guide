@@ -10,6 +10,12 @@
     <Compile Update="CalendarEdit.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ExitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExportToDocFile.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Update="Hotels\CrownePlazaAthens.cs">
       <SubType>Form</SubType>
     </Compile>

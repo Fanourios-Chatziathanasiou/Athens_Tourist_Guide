@@ -410,7 +410,6 @@ namespace WinFormsApp3
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // panel1
             // 
@@ -660,7 +659,7 @@ namespace WinFormsApp3
             this.Controls.Add(this.panel1);
             this.Name = "InsideFormEatDrink";
             this.Tag = "Διαμονή";
-            this.Text = "InsideFormAccommodations";
+            this.Text = "InsideFormEatDrink";
             this.Load += new System.EventHandler(this.InsideFormAccommodations_Load);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();

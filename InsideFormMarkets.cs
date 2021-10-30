@@ -14,11 +14,11 @@ namespace WinFormsApp3
     public partial class InsideFormMarkets : Form
     {
         SpeechSynthesizer spee = new SpeechSynthesizer();
-        string userNamecopy;
-        public InsideFormMarkets(string usercopy)
+        
+        public InsideFormMarkets()
         {
             InitializeComponent();
-            userNamecopy = usercopy;
+          
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -62,10 +62,10 @@ namespace WinFormsApp3
 
         private void CrownePlazaAthens_Click(object sender, EventArgs e)
         {
-            if(userNamecopy != "Guest")
+            if(StaticFieldsClass.usernameCopy != "Guest")
             {
                 Glifada market = new Glifada();
-                market.Show();
+                market.ShowDialog();
             }
             else
             {
@@ -76,10 +76,10 @@ namespace WinFormsApp3
 
         private void iconButton2_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 Kolonaki market = new Kolonaki();
-                market.Show();
+                market.ShowDialog();
             }
             else
             {
@@ -90,10 +90,10 @@ namespace WinFormsApp3
 
         private void iconButton3_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 Piraeus market = new Piraeus();
-                market.Show();
+                market.ShowDialog();
             }
             else
             {
@@ -105,10 +105,10 @@ namespace WinFormsApp3
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 Kifisia market = new Kifisia();
-                market.Show();
+                market.ShowDialog();
             }
             else
             {

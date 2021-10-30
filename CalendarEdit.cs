@@ -18,7 +18,6 @@ namespace WinFormsApp3
     {
         int querriesAffected;
         String editNote,originalNote,dt_now;
-        String username = "kapsos";
         public CalendarEdit(String note, String date_now)
         {
             InitializeComponent();
@@ -43,7 +42,7 @@ namespace WinFormsApp3
                     editcommand.CommandText = selectSQL;
                     editcommand.Parameters.AddWithValue("@editNote", editNote);
                     editcommand.Parameters.AddWithValue("@originalNote", originalNote);
-                    editcommand.Parameters.AddWithValue("@username", username);
+                    editcommand.Parameters.AddWithValue("@username", StaticFieldsClass.usernameCopy);
                     editcommand.Parameters.AddWithValue("@datetime_now", dt_now);
                     editcommand.Prepare();
                     querriesAffected=editcommand.ExecuteNonQuery();

@@ -81,6 +81,7 @@ namespace WinFormsApp3
             // timer1
             // 
             this.timer1.Interval = 2000;
+            this.timer1.Tag = "MusicBarsAndClubs";
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // pictureBox1
@@ -93,7 +94,7 @@ namespace WinFormsApp3
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.pictureBox1.Tag = "MusicBarsAndClubs";
             // 
             // label1
             // 
@@ -107,6 +108,7 @@ namespace WinFormsApp3
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(1150, 96);
             this.label1.TabIndex = 2;
+            this.label1.Tag = "MusicBarsAndClubs";
             this.label1.Text = "Music Bars-Clubs";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -122,6 +124,7 @@ namespace WinFormsApp3
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(1150, 96);
             this.label2.TabIndex = 4;
+            this.label2.Tag = "MusicBarsAndClubs";
             this.label2.Text = "Πληροφορίες";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -134,6 +137,7 @@ namespace WinFormsApp3
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(1150, 186);
             this.label3.TabIndex = 5;
+            this.label3.Tag = "MusicBarsAndClubs";
             this.label3.Text = resources.GetString("label3.Text");
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -148,6 +152,7 @@ namespace WinFormsApp3
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(1150, 96);
             this.label4.TabIndex = 7;
+            this.label4.Tag = "MusicBarsAndClubs";
             this.label4.Text = "Προτάσεις";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -162,6 +167,7 @@ namespace WinFormsApp3
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1150, 326);
             this.panel1.TabIndex = 8;
+            this.panel1.Tag = "MusicBarsAndClubs";
             // 
             // label6
             // 
@@ -171,6 +177,7 @@ namespace WinFormsApp3
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(793, 120);
             this.label6.TabIndex = 20;
+            this.label6.Tag = "MusicBarsAndClubs";
             this.label6.Text = resources.GetString("label6.Text");
             // 
             // pictureBox2
@@ -183,6 +190,7 @@ namespace WinFormsApp3
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Tag = "MusicBarsAndClubs";
             // 
             // label5
             // 
@@ -194,6 +202,7 @@ namespace WinFormsApp3
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(1150, 52);
             this.label5.TabIndex = 1;
+            this.label5.Tag = "MusicBarsAndClubs";
             this.label5.Text = "Afrikana";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -208,6 +217,7 @@ namespace WinFormsApp3
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1150, 405);
             this.panel2.TabIndex = 9;
+            this.panel2.Tag = "MusicBarsAndClubs";
             // 
             // label8
             // 
@@ -218,6 +228,7 @@ namespace WinFormsApp3
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(742, 90);
             this.label8.TabIndex = 20;
+            this.label8.Tag = "MusicBarsAndClubs";
             this.label8.Text = "Το Αkanthus, με το όμορφο και ειδυλλιακό περιβάλλον, προσφέρεται για \r\nολοήμερη δ" +
     "ιασκέδαση. Από το πρωί μέχρι το άλλο ξημέρωμα είναι το \r\nιδανικό μέρος για καλοκ" +
     "αιρινή έξοδο.";
@@ -232,6 +243,7 @@ namespace WinFormsApp3
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 0;
             this.pictureBox3.TabStop = false;
+            this.pictureBox3.Tag = "MusicBarsAndClubs";
             // 
             // label7
             // 
@@ -243,6 +255,7 @@ namespace WinFormsApp3
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(1150, 52);
             this.label7.TabIndex = 1;
+            this.label7.Tag = "MusicBarsAndClubs";
             this.label7.Text = "Akanthus Summer";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -254,7 +267,7 @@ namespace WinFormsApp3
             this.printBtn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.printBtn1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.printBtn1.ForeColor = System.Drawing.Color.White;
-            this.printBtn1.IconChar = FontAwesome.Sharp.IconChar.Print;
+            this.printBtn1.IconChar = FontAwesome.Sharp.IconChar.FileWord;
             this.printBtn1.IconColor = System.Drawing.Color.FloralWhite;
             this.printBtn1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.printBtn1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -263,8 +276,8 @@ namespace WinFormsApp3
             this.printBtn1.Name = "printBtn1";
             this.printBtn1.Size = new System.Drawing.Size(226, 64);
             this.printBtn1.TabIndex = 20;
-            this.printBtn1.Tag = "Crowne Plaza Athens";
-            this.printBtn1.Text = "Εκτύπωση Σελίδας\r\n";
+            this.printBtn1.Tag = "MusicBarsAndClubs";
+            this.printBtn1.Text = "Εξαγωγή σε αρχείο κειμένου";
             this.printBtn1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.printBtn1.UseVisualStyleBackColor = false;
             this.printBtn1.Click += new System.EventHandler(this.printingBtn1_Click);
@@ -280,6 +293,7 @@ namespace WinFormsApp3
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(1150, 405);
             this.panel3.TabIndex = 10;
+            this.panel3.Tag = "MusicBarsAndClubs";
             // 
             // label10
             // 
@@ -290,6 +304,7 @@ namespace WinFormsApp3
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(670, 90);
             this.label10.TabIndex = 20;
+            this.label10.Tag = "MusicBarsAndClubs";
             this.label10.Text = "Στο Astron bar στην περιοχή του Ψυρρή έχετε τη δυνατότητα \r\nνα απολαύσετε ποιοτικ" +
     "ή ηλεκτρονική μουσική απολαμβάνοντας \r\nτο ποτό σας σε έναν cozy χώρο με χορευτικ" +
     "ή ατμόσφαιρα.";
@@ -304,6 +319,7 @@ namespace WinFormsApp3
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 0;
             this.pictureBox4.TabStop = false;
+            this.pictureBox4.Tag = "MusicBarsAndClubs";
             // 
             // label9
             // 
@@ -315,6 +331,7 @@ namespace WinFormsApp3
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(1150, 52);
             this.label9.TabIndex = 1;
+            this.label9.Tag = "MusicBarsAndClubs";
             this.label9.Text = "Astron";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -329,6 +346,7 @@ namespace WinFormsApp3
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(1150, 405);
             this.panel4.TabIndex = 12;
+            this.panel4.Tag = "MusicBarsAndClubs";
             // 
             // label12
             // 
@@ -339,6 +357,7 @@ namespace WinFormsApp3
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(640, 90);
             this.label12.TabIndex = 20;
+            this.label12.Tag = "MusicBarsAndClubs";
             this.label12.Text = "Το Boiler bar στο Μοναστηράκι σε έναν χώρο με βιομηχανική \r\nδιακόσμηση σας σερβίρ" +
     "ει ποτά σε προσιτές τιμές ενώ σας \r\nδιασκεδάζει με εναλλακτικές μουσικές επιλογέ" +
     "ς.";
@@ -353,6 +372,7 @@ namespace WinFormsApp3
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 0;
             this.pictureBox5.TabStop = false;
+            this.pictureBox5.Tag = "MusicBarsAndClubs";
             // 
             // label11
             // 
@@ -364,6 +384,7 @@ namespace WinFormsApp3
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(1150, 52);
             this.label11.TabIndex = 1;
+            this.label11.Tag = "MusicBarsAndClubs";
             this.label11.Text = "Boiler";
             this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -378,6 +399,7 @@ namespace WinFormsApp3
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(1150, 405);
             this.panel5.TabIndex = 13;
+            this.panel5.Tag = "MusicBarsAndClubs";
             // 
             // label14
             // 
@@ -388,6 +410,7 @@ namespace WinFormsApp3
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(695, 90);
             this.label14.TabIndex = 20;
+            this.label14.Tag = "MusicBarsAndClubs";
             this.label14.Text = "Τo bar 56 είναι ένα whiskey bar στο Κολωνάκι. Εδώ θα βρείτε \r\nμεγάλη ποικιλία από" +
     " ετικέτες whiskey που μπορείτε να απολαύσετε \r\nστον ιδιαίτερα προσεγμένο χώρο το" +
     "υ.";
@@ -402,6 +425,7 @@ namespace WinFormsApp3
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox6.TabIndex = 0;
             this.pictureBox6.TabStop = false;
+            this.pictureBox6.Tag = "MusicBarsAndClubs";
             // 
             // label13
             // 
@@ -413,6 +437,7 @@ namespace WinFormsApp3
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(1150, 52);
             this.label13.TabIndex = 1;
+            this.label13.Tag = "MusicBarsAndClubs";
             this.label13.Text = "56";
             this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -429,6 +454,7 @@ namespace WinFormsApp3
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(1150, 405);
             this.panel6.TabIndex = 14;
+            this.panel6.Tag = "MusicBarsAndClubs";
             // 
             // printBtn2
             // 
@@ -439,7 +465,7 @@ namespace WinFormsApp3
             this.printBtn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.printBtn2.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.printBtn2.ForeColor = System.Drawing.Color.White;
-            this.printBtn2.IconChar = FontAwesome.Sharp.IconChar.Print;
+            this.printBtn2.IconChar = FontAwesome.Sharp.IconChar.FileWord;
             this.printBtn2.IconColor = System.Drawing.Color.FloralWhite;
             this.printBtn2.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.printBtn2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -448,8 +474,8 @@ namespace WinFormsApp3
             this.printBtn2.Name = "printBtn2";
             this.printBtn2.Size = new System.Drawing.Size(226, 64);
             this.printBtn2.TabIndex = 23;
-            this.printBtn2.Tag = "Crowne Plaza Athens";
-            this.printBtn2.Text = "Εκτύπωση Σελίδας\r\n";
+            this.printBtn2.Tag = "MusicBarsAndClubs";
+            this.printBtn2.Text = "Εξαγωγή σε αρχείο κειμένου";
             this.printBtn2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.printBtn2.UseVisualStyleBackColor = false;
             this.printBtn2.Click += new System.EventHandler(this.iconButton2_Click);
@@ -473,7 +499,7 @@ namespace WinFormsApp3
             this.iconButton1.Name = "iconButton1";
             this.iconButton1.Size = new System.Drawing.Size(189, 64);
             this.iconButton1.TabIndex = 22;
-            this.iconButton1.Tag = "Crowne Plaza Athens";
+            this.iconButton1.Tag = "MusicBarsAndClubs";
             this.iconButton1.Text = "Kαταχώρηση μηνύματος";
             this.iconButton1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.iconButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -489,6 +515,7 @@ namespace WinFormsApp3
             this.richTextBox1.Size = new System.Drawing.Size(502, 160);
             this.richTextBox1.TabIndex = 21;
             this.richTextBox1.TabStop = false;
+            this.richTextBox1.Tag = "MusicBarsAndClubs";
             this.richTextBox1.Text = "";
             this.richTextBox1.Click += new System.EventHandler(this.richTextBox1_Click);
             this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
@@ -502,6 +529,7 @@ namespace WinFormsApp3
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(1150, 91);
             this.label19.TabIndex = 20;
+            this.label19.Tag = "MusicBarsAndClubs";
             this.label19.Text = "Έχετε κάποιο προσωπικό σχόλιο-σημείωση που θα θέλατε να κάνετε για την τα Music B" +
     "ars-Clubs;\r\nΣυμπληρώστε τη παρακάτω φόρμα για να καταχωρηθεί στο προσωπικό σας η" +
     "μερολόγιο!";
@@ -517,6 +545,7 @@ namespace WinFormsApp3
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(1150, 52);
             this.label20.TabIndex = 1;
+            this.label20.Tag = "MusicBarsAndClubs";
             this.label20.Text = "Προσωπικά Σχόλια...";
             this.label20.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -541,7 +570,7 @@ namespace WinFormsApp3
             this.Controls.Add(this.pictureBox1);
             this.Name = "MusicBarsAndClubs";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CrownePlazaAthens";
+            this.Text = "MusicBarsAndClubs";
             this.Load += new System.EventHandler(this.CrownePlazaAthens_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel1.ResumeLayout(false);

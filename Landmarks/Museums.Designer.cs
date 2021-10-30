@@ -54,12 +54,12 @@ namespace WinFormsApp3
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.label11 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.printBtn2 = new FontAwesome.Sharp.IconButton();
+            this.exportBtn2 = new FontAwesome.Sharp.IconButton();
             this.iconButton1 = new FontAwesome.Sharp.IconButton();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.label19 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
-            this.printBtn1 = new FontAwesome.Sharp.IconButton();
+            this.exportBtn1 = new FontAwesome.Sharp.IconButton();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -75,6 +75,7 @@ namespace WinFormsApp3
             // timer1
             // 
             this.timer1.Interval = 2000;
+            this.timer1.Tag = "Museums";
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // pictureBox1
@@ -87,7 +88,7 @@ namespace WinFormsApp3
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.pictureBox1.Tag = "Museums";
             // 
             // label1
             // 
@@ -101,6 +102,7 @@ namespace WinFormsApp3
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(1053, 96);
             this.label1.TabIndex = 2;
+            this.label1.Tag = "Museums";
             this.label1.Text = "Λοιπά Μουσεία και Πινακοθήκες";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -115,6 +117,7 @@ namespace WinFormsApp3
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(1053, 96);
             this.label2.TabIndex = 4;
+            this.label2.Tag = "Museums";
             this.label2.Text = "Πληροφορίες";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -127,6 +130,7 @@ namespace WinFormsApp3
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(1053, 448);
             this.label3.TabIndex = 5;
+            this.label3.Tag = "Museums";
             this.label3.Text = resources.GetString("label3.Text");
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -141,6 +145,7 @@ namespace WinFormsApp3
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(1053, 96);
             this.label4.TabIndex = 7;
+            this.label4.Tag = "Museums";
             this.label4.Text = "Μουσεία";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -155,6 +160,7 @@ namespace WinFormsApp3
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1053, 387);
             this.panel1.TabIndex = 8;
+            this.panel1.Tag = "Museums";
             // 
             // label6
             // 
@@ -164,8 +170,8 @@ namespace WinFormsApp3
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(692, 308);
             this.label6.TabIndex = 20;
+            this.label6.Tag = "Museums";
             this.label6.Text = resources.GetString("label6.Text");
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // pictureBox2
             // 
@@ -177,6 +183,7 @@ namespace WinFormsApp3
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Tag = "Museums";
             // 
             // label5
             // 
@@ -188,6 +195,7 @@ namespace WinFormsApp3
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(1053, 52);
             this.label5.TabIndex = 1;
+            this.label5.Tag = "Museums";
             this.label5.Text = "Εθνικό Αρχαιολογικό Μουσείο ";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -202,6 +210,7 @@ namespace WinFormsApp3
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1053, 405);
             this.panel2.TabIndex = 9;
+            this.panel2.Tag = "Museums";
             // 
             // label8
             // 
@@ -212,6 +221,7 @@ namespace WinFormsApp3
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(711, 300);
             this.label8.TabIndex = 20;
+            this.label8.Tag = "Museums";
             this.label8.Text = resources.GetString("label8.Text");
             // 
             // pictureBox3
@@ -224,6 +234,7 @@ namespace WinFormsApp3
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 0;
             this.pictureBox3.TabStop = false;
+            this.pictureBox3.Tag = "Museums";
             // 
             // label7
             // 
@@ -235,6 +246,7 @@ namespace WinFormsApp3
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(1053, 52);
             this.label7.TabIndex = 1;
+            this.label7.Tag = "Museums";
             this.label7.Text = "Μουσείο Μπενάκη";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -249,6 +261,7 @@ namespace WinFormsApp3
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(1053, 405);
             this.panel3.TabIndex = 10;
+            this.panel3.Tag = "Museums";
             // 
             // label10
             // 
@@ -259,6 +272,7 @@ namespace WinFormsApp3
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(675, 300);
             this.label10.TabIndex = 20;
+            this.label10.Tag = "Museums";
             this.label10.Text = resources.GetString("label10.Text");
             // 
             // pictureBox4
@@ -271,6 +285,7 @@ namespace WinFormsApp3
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 0;
             this.pictureBox4.TabStop = false;
+            this.pictureBox4.Tag = "Museums";
             // 
             // label9
             // 
@@ -282,6 +297,7 @@ namespace WinFormsApp3
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(1053, 52);
             this.label9.TabIndex = 1;
+            this.label9.Tag = "Museums";
             this.label9.Text = "Εθνικό Ιστορικό Μουσείο";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -296,6 +312,7 @@ namespace WinFormsApp3
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(1053, 405);
             this.panel4.TabIndex = 12;
+            this.panel4.Tag = "Museums";
             // 
             // label12
             // 
@@ -306,6 +323,7 @@ namespace WinFormsApp3
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(682, 300);
             this.label12.TabIndex = 20;
+            this.label12.Tag = "Museums";
             this.label12.Text = resources.GetString("label12.Text");
             // 
             // pictureBox5
@@ -318,6 +336,7 @@ namespace WinFormsApp3
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 0;
             this.pictureBox5.TabStop = false;
+            this.pictureBox5.Tag = "Museums";
             // 
             // label11
             // 
@@ -329,13 +348,14 @@ namespace WinFormsApp3
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(1053, 52);
             this.label11.TabIndex = 1;
+            this.label11.Tag = "Museums";
             this.label11.Text = "Εθνική Πινακοθήκη - Μουσείο Αλεξάνδρου Σούτζου";
             this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.FloralWhite;
-            this.panel6.Controls.Add(this.printBtn2);
+            this.panel6.Controls.Add(this.exportBtn2);
             this.panel6.Controls.Add(this.iconButton1);
             this.panel6.Controls.Add(this.richTextBox1);
             this.panel6.Controls.Add(this.label19);
@@ -345,30 +365,31 @@ namespace WinFormsApp3
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(1053, 405);
             this.panel6.TabIndex = 14;
+            this.panel6.Tag = "Museums";
             // 
-            // printBtn2
+            // exportBtn2
             // 
-            this.printBtn2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.printBtn2.BackColor = System.Drawing.Color.MidnightBlue;
-            this.printBtn2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.printBtn2.FlatAppearance.BorderSize = 0;
-            this.printBtn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.printBtn2.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.printBtn2.ForeColor = System.Drawing.Color.White;
-            this.printBtn2.IconChar = FontAwesome.Sharp.IconChar.Print;
-            this.printBtn2.IconColor = System.Drawing.Color.FloralWhite;
-            this.printBtn2.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.printBtn2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.printBtn2.Location = new System.Drawing.Point(9, 332);
-            this.printBtn2.Margin = new System.Windows.Forms.Padding(0);
-            this.printBtn2.Name = "printBtn2";
-            this.printBtn2.Size = new System.Drawing.Size(226, 64);
-            this.printBtn2.TabIndex = 36;
-            this.printBtn2.Tag = "Crowne Plaza Athens";
-            this.printBtn2.Text = "Εκτύπωση σελίδας";
-            this.printBtn2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.printBtn2.UseVisualStyleBackColor = false;
-            this.printBtn2.Click += new System.EventHandler(this.iconButton2_Click);
+            this.exportBtn2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.exportBtn2.BackColor = System.Drawing.Color.MidnightBlue;
+            this.exportBtn2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.exportBtn2.FlatAppearance.BorderSize = 0;
+            this.exportBtn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.exportBtn2.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.exportBtn2.ForeColor = System.Drawing.Color.White;
+            this.exportBtn2.IconChar = FontAwesome.Sharp.IconChar.FileWord;
+            this.exportBtn2.IconColor = System.Drawing.Color.FloralWhite;
+            this.exportBtn2.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.exportBtn2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.exportBtn2.Location = new System.Drawing.Point(9, 332);
+            this.exportBtn2.Margin = new System.Windows.Forms.Padding(0);
+            this.exportBtn2.Name = "exportBtn2";
+            this.exportBtn2.Size = new System.Drawing.Size(226, 64);
+            this.exportBtn2.TabIndex = 36;
+            this.exportBtn2.Tag = "Museums";
+            this.exportBtn2.Text = "Εξαγωγή σε αρχείο κειμένου";
+            this.exportBtn2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.exportBtn2.UseVisualStyleBackColor = false;
+            this.exportBtn2.Click += new System.EventHandler(this.exportBtn1_Click);
             // 
             // iconButton1
             // 
@@ -390,7 +411,7 @@ namespace WinFormsApp3
             this.iconButton1.Name = "iconButton1";
             this.iconButton1.Size = new System.Drawing.Size(189, 64);
             this.iconButton1.TabIndex = 22;
-            this.iconButton1.Tag = "Crowne Plaza Athens";
+            this.iconButton1.Tag = "Museums";
             this.iconButton1.Text = "Kαταχώρηση μηνύματος";
             this.iconButton1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.iconButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -406,6 +427,7 @@ namespace WinFormsApp3
             this.richTextBox1.Size = new System.Drawing.Size(408, 160);
             this.richTextBox1.TabIndex = 21;
             this.richTextBox1.TabStop = false;
+            this.richTextBox1.Tag = "Museums";
             this.richTextBox1.Text = "";
             this.richTextBox1.Click += new System.EventHandler(this.richTextBox1_Click);
             this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
@@ -419,6 +441,7 @@ namespace WinFormsApp3
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(1053, 91);
             this.label19.TabIndex = 20;
+            this.label19.Tag = "Museums";
             this.label19.Text = "Έχετε κάποιο προσωπικό σχόλιο-σημείωση που θα θέλατε να κάνετε για το αξιοθέατο;\r" +
     "\nΣυμπληρώστε τη παρακάτω φόρμα για να καταχωρηθεί στο προσωπικό σας ημερολόγιο!";
             this.label19.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -433,31 +456,32 @@ namespace WinFormsApp3
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(1053, 52);
             this.label20.TabIndex = 1;
+            this.label20.Tag = "Museums";
             this.label20.Text = "Προσωπικά Σχόλια...";
             this.label20.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // printBtn1
+            // exportBtn1
             // 
-            this.printBtn1.BackColor = System.Drawing.Color.MidnightBlue;
-            this.printBtn1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.printBtn1.FlatAppearance.BorderSize = 0;
-            this.printBtn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.printBtn1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.printBtn1.ForeColor = System.Drawing.Color.White;
-            this.printBtn1.IconChar = FontAwesome.Sharp.IconChar.Print;
-            this.printBtn1.IconColor = System.Drawing.Color.FloralWhite;
-            this.printBtn1.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.printBtn1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.printBtn1.Location = new System.Drawing.Point(3, 448);
-            this.printBtn1.Margin = new System.Windows.Forms.Padding(0);
-            this.printBtn1.Name = "printBtn1";
-            this.printBtn1.Size = new System.Drawing.Size(226, 64);
-            this.printBtn1.TabIndex = 36;
-            this.printBtn1.Tag = "Crowne Plaza Athens";
-            this.printBtn1.Text = "Εκτύπωση σελίδας";
-            this.printBtn1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.printBtn1.UseVisualStyleBackColor = false;
-            this.printBtn1.Click += new System.EventHandler(this.printBtn1_Click);
+            this.exportBtn1.BackColor = System.Drawing.Color.MidnightBlue;
+            this.exportBtn1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.exportBtn1.FlatAppearance.BorderSize = 0;
+            this.exportBtn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.exportBtn1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.exportBtn1.ForeColor = System.Drawing.Color.White;
+            this.exportBtn1.IconChar = FontAwesome.Sharp.IconChar.FileWord;
+            this.exportBtn1.IconColor = System.Drawing.Color.FloralWhite;
+            this.exportBtn1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.exportBtn1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.exportBtn1.Location = new System.Drawing.Point(3, 448);
+            this.exportBtn1.Margin = new System.Windows.Forms.Padding(0);
+            this.exportBtn1.Name = "exportBtn1";
+            this.exportBtn1.Size = new System.Drawing.Size(226, 64);
+            this.exportBtn1.TabIndex = 36;
+            this.exportBtn1.Tag = "Museums";
+            this.exportBtn1.Text = "Εξαγωγή σε αρχείο κειμένου";
+            this.exportBtn1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.exportBtn1.UseVisualStyleBackColor = false;
+            this.exportBtn1.Click += new System.EventHandler(this.exportBtn1_Click);
             // 
             // Museums
             // 
@@ -466,7 +490,7 @@ namespace WinFormsApp3
             this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.LightBlue;
             this.ClientSize = new System.Drawing.Size(1074, 595);
-            this.Controls.Add(this.printBtn1);
+            this.Controls.Add(this.exportBtn1);
             this.Controls.Add(this.panel6);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
@@ -479,8 +503,8 @@ namespace WinFormsApp3
             this.Controls.Add(this.pictureBox1);
             this.Name = "Museums";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CrownePlazaAthens";
-            this.Load += new System.EventHandler(this.CrownePlazaAthens_Load);
+            this.Text = "Museums";
+            this.Load += new System.EventHandler(this.Museums_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -527,7 +551,7 @@ namespace WinFormsApp3
         private System.Windows.Forms.Label label20;
         private FontAwesome.Sharp.IconButton iconButton1;
         private System.Windows.Forms.RichTextBox richTextBox1;
-        private FontAwesome.Sharp.IconButton printBtn2;
-        private FontAwesome.Sharp.IconButton printBtn1;
+        private FontAwesome.Sharp.IconButton exportBtn2;
+        private FontAwesome.Sharp.IconButton exportBtn1;
     }
 }

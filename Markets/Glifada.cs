@@ -18,32 +18,23 @@ namespace WinFormsApp3
     {
         int querriesffected;
         
-        String username = "kapsos";
         String date;
         String date_now;
         String note;
         public Glifada()
         {
             InitializeComponent();
-            timer1.Enabled = true;
+            
+
         }
 
 
        
-        private void CrownePlazaAthens_Load(object sender, EventArgs e)
+        private void Glifada_Load(object sender, EventArgs e)
         {
             this.ActiveControl = label1;
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            
-        }
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
@@ -59,17 +50,15 @@ namespace WinFormsApp3
                     DateTime dt = DateTime.Now;
                     date = dt.ToShortDateString();
                     note = richTextBox1.Text;
-                    //MessageBox.Show(richtextboxesList[0]);
+            
                     insertcommand.CommandText = selectSQL;
-                    insertcommand.Parameters.AddWithValue("@username_", username);
+                    insertcommand.Parameters.AddWithValue("@username_", StaticFieldsClass.usernameCopy);
                     insertcommand.Parameters.AddWithValue("@date_to_note", date);
                     insertcommand.Parameters.AddWithValue("@datetime_now", date_now);
                     insertcommand.Parameters.AddWithValue("@note", note);
                     insertcommand.Prepare();
                     querriesffected = insertcommand.ExecuteNonQuery();
                      
-                    
-
                 }
                 
 
@@ -102,32 +91,11 @@ namespace WinFormsApp3
             richTextBox1.Enabled = true;
         }
 
-        private void printBtn1_Click(object sender, EventArgs e)
+
+        private void exportBtn1_Click(object sender, EventArgs e)
         {
-            Print pt = new Print();
-
-            Control[] Controls;
-            List<string> textToPrint = new List<string>();
-            String labelName;
-            for (int i = 1; i < 15; i++)
-            {
-                String labelText;
-
-                //διαλέγω label
-                labelName = "label" + i.ToString();
-                //βρισκώ τα controls του
-                Controls = this.Controls.Find(labelName, true);
-
-                labelText = Controls[0].Text.ToString();
-                textToPrint.Add(labelText);
-            }
-            pt.LabelToPrint = textToPrint;
-            pt.Printing();
-        }
-
-        private void printBtn2_Click(object sender, EventArgs e)
-        {
-            printBtn1.PerformClick();
+            ExportToDocFile exportToDocFile = new ExportToDocFile();
+            exportToDocFile.exportToDesktop(this);
         }
     }
 

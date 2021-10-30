@@ -114,6 +114,10 @@ namespace WinFormsApp3
 
         private void printBtn1_Click(object sender, EventArgs e)
         {
+            ExportToDocFile exportToDocFile = new ExportToDocFile();
+            exportToDocFile.exportToDesktop(this);
+            // ** printing module under construction**
+            /*
             Print pt = new Print();
 
             Control[] Controls;
@@ -129,16 +133,19 @@ namespace WinFormsApp3
                 Controls = this.Controls.Find(labelName, true);
 
                 labelText = Controls[0].Text.ToString();
+
                 textToPrint.Add(labelText);
             }
 
             pt.LabelToPrint = textToPrint;
             pt.Printing();
+            */
         }
 
         private void printBtn2_Click(object sender, EventArgs e)
         {
-            printBtn1.PerformClick();
+            ExportToDocFile exportToDocFile = new ExportToDocFile();
+            exportToDocFile.exportToDesktop(this);
         }
     }
 

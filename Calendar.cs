@@ -14,13 +14,12 @@ namespace WinFormsApp3
 {
     public partial class Calendar : Form
     {
-        //νομιζω μας ειχε πει οτι θελει το conn εδω
-       // SQLiteConnection conn;
+        
+       
         List<Button> deletebuttonsList = new List<Button>();
         List<Button> editbuttonsList = new List<Button>();
         List<String> richtextboxesList = new List<String>();
-        List<String> datetimestrings = new List<String>();
-        String username;
+        List<String> datetimestrings = new List<String>();    
         String date, date_now;
         String note;
         int i = 1;
@@ -50,8 +49,7 @@ namespace WinFormsApp3
 
         private void Calendar_Load(object sender, EventArgs e)
         {
-            //String str = "Data Source=tourist_guide.db;Version=3";
-            //conn = new SQLiteConnection(str);
+           
             
             
            
@@ -70,10 +68,10 @@ namespace WinFormsApp3
                                         "FROM Notes " +
                                         "WHERE username_ = @username AND date_to_note= @date";
 
-                    username = "kapsos";
+                    
                     date = label1.Text;
                     command.CommandText = selectSQL;
-                    command.Parameters.AddWithValue("@username", username);
+                    command.Parameters.AddWithValue("@username", StaticFieldsClass.usernameCopy);
                     command.Parameters.AddWithValue("@date", date);
                     command.Prepare();
 
@@ -169,7 +167,7 @@ namespace WinFormsApp3
 
                 using (SQLiteCommand deletecommand = new SQLiteCommand(conn))
                 {
-                    String selectSQL = "DELETE FROM Notes WHERE note =@note AND datetime_now= @date_now";
+                    String selectSQL = "DELETE FROM Notes WHERE note =@note AND datetime_now= @date_now AND username_=@username";
 
 
                     note = richtextboxesList[deletebuttonsList.IndexOf((Button)sender)];
@@ -179,6 +177,7 @@ namespace WinFormsApp3
                     deletecommand.CommandText = selectSQL;
                     deletecommand.Parameters.AddWithValue("@note", note);
                     deletecommand.Parameters.AddWithValue("@date_now", date_now);
+                    deletecommand.Parameters.AddWithValue("@username", StaticFieldsClass.usernameCopy);
                     deletecommand.Prepare();
                     deletecommand.ExecuteNonQuery();
                     

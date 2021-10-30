@@ -87,6 +87,7 @@ namespace WinFormsApp3
             this.MaximumSize = new System.Drawing.Size(1046, 578);
             this.MinimumSize = new System.Drawing.Size(1046, 578);
             this.Name = "Calendar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ημερολόγιο";
             this.Load += new System.EventHandler(this.Calendar_Load);
             this.ResumeLayout(false);

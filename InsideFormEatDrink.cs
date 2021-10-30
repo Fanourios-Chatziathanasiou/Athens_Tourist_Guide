@@ -15,16 +15,12 @@ namespace WinFormsApp3
     public partial class InsideFormEatDrink : Form
     {
         SpeechSynthesizer spee = new SpeechSynthesizer();
-        string userNamecopy;
-        public InsideFormEatDrink(string usercopy)
+        
+        public InsideFormEatDrink()
         {
             InitializeComponent();
-            userNamecopy = usercopy;
-            
-            
-        }
 
-      
+        }
 
         private void InsideFormAccommodations_Load(object sender, EventArgs e)
         {
@@ -51,22 +47,12 @@ namespace WinFormsApp3
             }
         }
 
-      
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-       
-
-
-
         private void CrownePlazaAthens_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 Restaurants eatdrnk = new Restaurants();
-                eatdrnk.Show();
+                eatdrnk.ShowDialog();
             }
             else
             {
@@ -77,10 +63,10 @@ namespace WinFormsApp3
 
         private void iconButton2_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 MusicBarsAndClubs eatdrnk = new MusicBarsAndClubs();
-                eatdrnk.Show();
+                eatdrnk.ShowDialog();
             }
             else
             {
@@ -91,10 +77,10 @@ namespace WinFormsApp3
 
         private void iconButton3_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 WineBars eatdrnk = new WineBars();
-                eatdrnk.Show();
+                eatdrnk.ShowDialog();
             }
             else
             {
@@ -105,32 +91,28 @@ namespace WinFormsApp3
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 Restaurants eatdrnk = new Restaurants();
-                eatdrnk.Show();
+                eatdrnk.ShowDialog();
             }
             else
             {
                 MessageBox.Show("Παρακαλώ κάντε εγγραφή για να δείτε το πλήρες περιεχόμενο της εφαρμογής.");
             }
-
-            
-            
         }
 
         private void IconButton4_Click(object sender, EventArgs e)
         {
-            if (userNamecopy != "Guest")
+            if (StaticFieldsClass.usernameCopy != "Guest")
             {
                 StreetFood eatdrnk = new StreetFood();
-                eatdrnk.Show();
+                eatdrnk.ShowDialog();
             }
             else
             {
                 MessageBox.Show("Παρακαλώ κάντε εγγραφή για να δείτε το πλήρες περιεχόμενο της εφαρμογής.");
-            }
-            
+            }           
         }
 
         private void iconButton7_Click(object sender, EventArgs e)
